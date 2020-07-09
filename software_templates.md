@@ -12,7 +12,7 @@ hopefully provide ARFC members with the individual tools to mix and match as
 they create software projects.
 
 # Existing Templates
-There are a couple open source templates that provide a high quality template 
+There are a couple open source projects that provide a high quality template 
 that can be useful in software development, and if your project falls under the 
 range of capabilities they have it can save you a lot of time by using them or 
 adapting them to start your project.
@@ -20,11 +20,10 @@ adapting them to start your project.
 ## Shablona
 [Shablona](https://github.com/uwescience/shablona) is a template repository that 
 is designed for scientific python projects. The template comes with everything a 
-small-scale project might need, and can be easily adapted for python based 
-projects.
+small-scale project might need, and can be easily adapted for python projects.
 
 To get a sense of whether or not using the Shablona template is appropriate for 
-the project, checkout the 
+your project, checkout the 
 [example](https://github.com/uwescience/shablona/tree/master/examples) provided.
 
 ## Cookiecutter
@@ -47,10 +46,13 @@ some pieces that might benefit your project. JOSS (The Journal of Open Source
 Software) has 
 a useful [review checklist](https://joss.readthedocs.io/en/latest/review_checklist.html) 
 for software that you should review before beginning your project even though 
-this checklist was for reviewers and not creators. 
+this checklist was made for reviewers and not creators. 
 
 ## Make Files
-Makefile is a program building tool that operates with the make utility to compile or re-compile a program or process through a user-defined command in the command-line. They are extremely useful tools that make it a lot easier for contributors or reviewers to compile and run your project.
+Makefile is a program building tool that operates with the make utility to 
+compile or re-compile a program or process through a user-defined command in the 
+command-line. They are extremely useful tools that make it a lot easier for 
+contributors or reviewers to compile and run your project.
 
 #### Resources:
 - [Introduction](https://www.gnu.org/software/make/manual/html_node/Introduction.html)
@@ -59,8 +61,7 @@ Makefile is a program building tool that operates with the make utility to compi
 
 ## CMake Files
 CMake generates makefiles, similar Make or a makefile, except that it is much 
-more compatible with C++, and it is designed to integrate across platforms, 
-languages, or libraries.
+more compatible with C++.
 
 #### Resources:
 - [Overview](https://cmake.org/overview/)
@@ -89,7 +90,9 @@ from a series of tests run on every commit, you might want to check out
 circleci. Circleci allows you to build automatic tests that can run in a couple 
 ways, notably before every pull request. This functionality can take some time 
 to develop, but if you expect multiple contributors or a lot of pull requests 
-you might want to consider implementing tests like this.
+you might want to consider implementing tests like this. An example repository 
+is [PyNE](https://github.com/pyne/pyne), which employs circleci to run multiple 
+tests on every pull request before they're merged. 
 
 #### Resources:
 - [Getting Started](https://circleci.com/docs/2.0/hello-world/)
@@ -111,8 +114,8 @@ license that covers the code in that directory.
 
 Another suggestion is that you add all the licenses to the docs 
 folder and then indicate which files or directories are covered under the 
-respective licenses in the README.md files (or in the file itself) in the 
-directory covered by it.
+respective licenses in the README.md files in the directory covered by it, or in 
+the file itself.
 
 There are many other ways to abide by differing licenses, the above are simply 
 suggestions about how to go about it and should not be taken as legal advice. 
