@@ -92,7 +92,7 @@ ways, notably before every pull request. This functionality can take some time
 to develop, but if you expect multiple contributors or a lot of pull requests 
 you might want to consider implementing tests like this. An example repository 
 is [PyNE](https://github.com/pyne/pyne), which employs circleci to run multiple 
-tests on every pull request before they're merged. 
+tests on every pull request. 
 
 #### Resources:
 - [Getting Started](https://circleci.com/docs/2.0/hello-world/)
@@ -125,3 +125,9 @@ requirements of any software you are using or adapting.
 #### Resources:
 - [List of open source licenses](https://opensource.org/licenses/alphabetical)
 - [What is copyleft?](https://opensource.org/faq#copyleft)
+- [Using open source code](https://www.linuxfoundation.org/resources/open-source-guides/using-open-source-code/)
+
+## Labels and Projects
+Make sure that your repository has the ability to add all of the ARFC labels 
+and projects. The labels and projects are an important part of the workflow in 
+the organization, and they help categorize issues and pull requests.
