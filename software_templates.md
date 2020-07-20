@@ -5,7 +5,7 @@ subtitle: "A few tools and templates for building a software project"
 permalink: /manual/guides/software_templates
 ---
 
-Software projects are often intensely unique with specifications that far 
+Software projects are often unique with specifications that 
 exceed the capabilities of a single template. However, there are some cases 
 where a template can save a lot of time and overhead. This document will 
 hopefully provide ARFC members with the individual tools to mix and match as 
@@ -13,8 +13,8 @@ they create software projects.
 
 # Existing Templates
 There are a couple open source projects that provide a high quality template 
-that can be useful in software development, and if your project falls under the 
-range of capabilities they have it can save you a lot of time by using them or 
+that can be useful in software development. If your project falls under the 
+range of capabilities they have you can save a lot of time by using them or 
 adapting them to start your project.
 
 ## Shablona
@@ -45,8 +45,7 @@ Even if neither of the above templates fit your requirements, there are still
 some pieces that might benefit your project. JOSS (The Journal of Open Source 
 Software) has 
 a useful [review checklist](https://joss.readthedocs.io/en/latest/review_checklist.html) 
-for software that you should review before beginning your project even though 
-this checklist was made for reviewers and not creators. 
+for reviewers that you should review before beginning your project. 
 
 ## Make Files
 Makefile is a program building tool that operates with the make utility to 
@@ -85,7 +84,7 @@ which also has a lot of useful information on what different components do.
 - A [Best Practices Guide](https://docs.docker.com/develop/dev-best-practices/)
 
 ## Automated Testing
-If you think this project may end up requiring multiple people or would benefit 
+If you think this project may end up having multiple contributors, or would benefit 
 from a series of tests run on every commit, you might want to check out 
 circleci. Circleci allows you to build automatic tests that can run in a couple 
 ways, notably before every pull request. This functionality can take some time 
@@ -103,9 +102,8 @@ tests on every pull request.
 Every repository that is a part of the ARFC Github Organization should have some 
 form of license. Choosing a license can seem like a very daunting task, but for 
 many software projects a simple 
-[BSD-3 Clause](https://spdx.org/licenses/BSD-3-Clause.html) will cover your whole
-project. In the case that your project is more complicated than one license 
-(meaning that you are using pieces under a different license), there are 
+[BSD-3 Clause](https://spdx.org/licenses/BSD-3-Clause.html) will cover your
+project. In the case that your project uses pieces under a different license, there are 
 many ways you can address it. 
 
 One suggestion is that you create separate directories for the code that is 
