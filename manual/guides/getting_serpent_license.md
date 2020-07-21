@@ -34,7 +34,7 @@ below that has been used by people that obtained their
 license:
 
 ```markdown
-I am a graduate student in the Advanced Reactors and Fuel Cycles group at the University
+I am a graduate student in the Advanced Reactors and Fuel Cycles group at the University of Illinois in Urbana-Champaign, which is led by Prof. Kathryn Huff.
 My research is funded by _______. My use of Serpent will contribute to _______.
 I intend to use Serpent to _______. In the near term, this work will _______.
 This work will contribute to my thesis work in _______. Data and software management
