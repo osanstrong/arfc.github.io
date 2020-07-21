@@ -45,7 +45,7 @@ by the export control officer at the University of Illinois.
 Here is an example where the blanks have been filled in:
 
 ```markdown
-I am a graduate student in the Advanced Reactors and Fuel Cycles group at the University
+I am a graduate student in the Advanced Reactors and Fuel Cycles group at the University of Illinois in Urbana-Champaign, which is led by Prof. Kathryn Huff.
 My research is funded by a graduate fellowship from the U.S. Nuclear Regulatory Commission.
 My use of Serpent will contribute to the licensing and regulatory mission of the U.S. NRC
 through investigation of advanced nuclear reactor safety. I intend to use Serpent
