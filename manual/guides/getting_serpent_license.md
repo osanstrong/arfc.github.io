@@ -51,7 +51,6 @@ My research is funded by a graduate fellowship from the U.S. Nuclear Regulatory 
 My use of Serpent will contribute to the licensing and regulatory mission of the U.S. NRC through the investigation of advanced nuclear reactor safety.
 I intend to use Serpent to run neutronics simulations of advanced reactor types relevant to the future of the US nuclear energy system.
 In the near term, this work will emphasize generation of group constants supporting safety analysis of Molten Salt Reactor core designs.
-of group constants supporting safety analysis of Molten Salt Reactor core designs.
 This work will contribute to my thesis work in advanced reactor multi-physics methods for safety analysis and design optimization.
 Data and software management in this work will abide by all license guidelines and will be informed by the export control officer at the University of Illinois.
 ```
