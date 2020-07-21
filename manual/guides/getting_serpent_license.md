@@ -55,7 +55,6 @@ of group constants supporting safety analysis of Molten Salt Reactor core design
 This work will contribute to my thesis work in advanced reactor multi-physics methods
 for safety analysis and design optimization. Data and software management in this work
 will abide by all license guidelines and will be informed by the export control officer
-at the University of Illinois.
 ```
 
 After this request is submitted, RSICC might request
