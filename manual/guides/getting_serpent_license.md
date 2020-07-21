@@ -54,7 +54,6 @@ of the US nuclear energy system. In the near term, this work will emphasize gene
 of group constants supporting safety analysis of Molten Salt Reactor core designs.
 This work will contribute to my thesis work in advanced reactor multi-physics methods
 for safety analysis and design optimization. Data and software management in this work
-will abide by all license guidelines and will be informed by the export control officer
 ```
 
 After this request is submitted, RSICC might request
