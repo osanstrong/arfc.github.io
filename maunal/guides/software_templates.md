@@ -60,6 +60,16 @@ compiles or re-compiles a program or process through a user-defined command in t
 CMake generates makefiles, similar Make or a makefile, except that it is much 
 more compatible with C++.
 
+## Snakemake Files
+Snakemake is a workflow engine with a python-based language and an optimizing 
+execution environment. It allows developers to write human-readable workflows that 
+document themselves.
+
+### Resources:
+- [Tutorial](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html)
+- [Examples](https://github.com/snakemake/snakemake/tree/master/examples)
+- [Wiki](https://snakemake.readthedocs.io/en/stable/index.html)
+
 #### Resources:
 - [Overview](https://cmake.org/overview/)
 - [Step-by-step Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
