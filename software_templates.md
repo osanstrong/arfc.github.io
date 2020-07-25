@@ -12,7 +12,7 @@ hopefully provide ARFC members with the individual tools to mix and match as
 they create software projects.
 
 # Existing Templates
-There are a couple open source projects that provide a high quality template 
+There are some open source projects that provide high quality templates
 that can be useful in software development. If your project falls under the 
 range of capabilities they have you can save a lot of time by using them or 
 adapting them to start your project.
@@ -48,10 +48,8 @@ a useful [review checklist](https://joss.readthedocs.io/en/latest/review_checkli
 for reviewers that you should review before beginning your project. 
 
 ## Make Files
-Makefile is a program building tool that operates with the make utility to 
-compile or re-compile a program or process through a user-defined command in the 
-command-line. They are extremely useful tools that make it a lot easier for 
-contributors or reviewers to compile and run your project.
+Makefile is a scripting tool that
+compiles or re-compiles a program or process through a user-defined command in the command-line: ``make``. Makefiles streamline the build process for project contributors or reviewers.
 
 #### Resources:
 - [Introduction](https://www.gnu.org/software/make/manual/html_node/Introduction.html)
@@ -70,7 +68,7 @@ more compatible with C++.
 ## Docker Files
 A Dockerfile is a text file that contains commands that can be used from the 
 command line to generate images. 
-Like a makefile, docker build can automate a series of command line 
+Like a Makefile, docker build can automate a series of command line 
 instructions. Several links have been 
 provided as informational resources, and there exists a template file. 
 
@@ -84,13 +82,9 @@ which also has a lot of useful information on what different components do.
 - A [Best Practices Guide](https://docs.docker.com/develop/dev-best-practices/)
 
 ## Automated Testing
-If you think this project may end up having multiple contributors, or would benefit 
-from a series of tests run on every commit, you might want to check out 
-circleci. Circleci allows you to build automatic tests that can run in a couple 
-ways, notably before every pull request. This functionality can take some time 
-to develop, but if you expect multiple contributors or a lot of pull requests 
-you might want to consider implementing tests like this. An example repository 
-is [PyNE](https://github.com/pyne/pyne), which employs circleci to run multiple 
+Continuous integration with CircleCI allows users to verify that their contributions do not break any software functionality.
+CircleCI automatically builds environments and executes tests before every pull request. An example repository 
+is [PyNE](https://github.com/pyne/pyne), which employs CircleCI to run multiple 
 tests on every pull request. 
 
 #### Resources:
@@ -100,10 +94,10 @@ tests on every pull request.
 
 ## Licensing
 Every repository that is a part of the ARFC Github Organization should have some 
-form of license. Choosing a license can seem like a very daunting task, but for 
-many software projects a simple 
-[BSD-3 Clause](https://spdx.org/licenses/BSD-3-Clause.html) will cover your
-project. In the case that your project uses pieces under a different license, there are 
+form of license. Choosing a license can seem daunting but for 
+a simple 
+[BSD-3 Clause](https://spdx.org/licenses/BSD-3-Clause.html) will cover many
+software projects. If your project uses pieces of code under a different license, there are 
 many ways you can address it. 
 
 One suggestion is that you create separate directories for the code that is 
@@ -116,8 +110,8 @@ respective licenses in the README.md files in the directory covered by it, or in
 the file itself.
 
 There are many other ways to abide by differing licenses, the above are simply 
-suggestions about how to go about it and should not be taken as legal advice. 
-Ensure that, regardless of the method you use, you are abiding by the 
+suggestions and should not be taken as legal advice. 
+Regardless of the method you use, make sure you are following the 
 requirements of any software you are using or adapting.
 
 #### Resources:
