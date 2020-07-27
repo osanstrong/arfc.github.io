@@ -37,3 +37,19 @@ guidelines.](http://eprints.rclis.org/7469/2/index.html)
 ## After Acceptance
 
 - Prepare the report cover page.
+
+## Using the Report Template
+
+In the ARFC Github organization, there are several template repositories designed to aid the 
+writing/creating process by giving you a starting place for formatting. To use the 
+[report template](https://github.com/arfc/report-template), select the `Use this Template` 
+option next to `Code`.
+			
+`Use this Template` will generate a repository on your GitHub account with copies of all the 
+files in the original, including the Readme file. The Readme will serve as your point of 
+reference for how to initialize the documents and some common errors that occur upon initial 
+startup. Keep in mind that this template has a 
+[CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/deed.ast). This license is 
+the standard for written works and reports; however, there are cases where the use of material 
+containing viral or copyleft licenses (such as GPL) can affect the type of license you can 
+use in your report.
