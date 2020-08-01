@@ -51,7 +51,7 @@ for reviewers that you should review before beginning your project.
 Makefile is a scripting tool that
 compiles or re-compiles a program or process through a user-defined command in the command-line: ``make``. Makefiles streamline the build process for project contributors or reviewers.
 
-#### Resources:
+### Resources:
 - [Introduction](https://www.gnu.org/software/make/manual/html_node/Introduction.html)
 - [Writing Makefiles](https://www.gnu.org/software/make/manual/html_node/Makefiles.html#Makefiles)
 - [Tutorial](https://makefiletutorial.com/)
@@ -86,7 +86,7 @@ Here is a
 [template dockerfile](https://gist.github.com/ju2wheels/3d1a1dfa498977874d03), 
 which also has a lot of useful information on what different components do.
 
-#### Resources:
+### Resources:
 - Information on [Dockerfiles](https://docs.docker.com/engine/reference/builder/)
 - A [Quickstart Guide](https://docs.docker.com/get-started/)
 - A [Best Practices Guide](https://docs.docker.com/develop/dev-best-practices/)
@@ -97,7 +97,7 @@ CircleCI automatically builds environments and executes tests before every pull 
 is [PyNE](https://github.com/pyne/pyne), which employs CircleCI to run multiple 
 tests on every pull request. 
 
-#### Resources:
+### Resources:
 - [Getting Started](https://circleci.com/docs/2.0/hello-world/)
 - [Tutorial](https://circleci.com/docs/2.0/tutorials/)
 - [Examples](https://circleci.com/docs/2.0/sample-config/)
@@ -124,7 +124,7 @@ suggestions and should not be taken as legal advice.
 Regardless of the method you use, make sure you are following the 
 requirements of any software you are using or adapting.
 
-#### Resources:
+### Resources:
 - [List of open source licenses](https://opensource.org/licenses/alphabetical)
 - [What is copyleft?](https://opensource.org/faq#copyleft)
 - [Using open source code](https://www.linuxfoundation.org/resources/open-source-guides/using-open-source-code/)
