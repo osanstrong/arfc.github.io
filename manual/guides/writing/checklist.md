@@ -51,6 +51,14 @@ This [writing checklist](/manual/guides/writing/checklist) is mostly from advice
 - [ ] A phrase of the form <verb>ion of <noun> is probably clearer as <noun> <verb>ion. (For example, convert "calculation of velocity" to "velocity calculation".)
 - [ ] Cite all software. Review [the principles](https://www.force11.org/software-citation-principles) and try [CiteAs](https://citeas.org/about) if necessary.
 - [ ] Refer to software consistently by name.
+- [ ] Each sentence/paragraph should logically follow the previous sentence/paragraph.
+- [ ] Concise language - If you're going to say something, don't beat around the bush.
+- [ ] Cite, Cite, Cite. Cite images, software, anything of that nature.
+- [ ] When making examples, use variables instead of numbers, or use symbols/math characters instead of acronyms.
+- [ ] Italicize words or phrases distinct to your work.
+- [ ] You're a human writing for other humans: Make the wording exciting, and remember some people reading it won't know as much as you do. Be specific, yet general enough for others to know.
+- [ ] If you use an uncommon word, either consider changing it or define it in its first usage.
+- [ ] Don't repeat yourself too much. Using the same phrase every few paragraphs gets boring.
 ```
 
 Additional Table and Figure Checklist:
