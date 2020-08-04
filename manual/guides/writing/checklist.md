@@ -53,9 +53,9 @@ This [writing checklist](/manual/guides/writing/checklist) is mostly from advice
 - [ ] Refer to software consistently by name.
 - [ ] Each sentence/paragraph should logically follow the previous sentence/paragraph.
 - [ ] Concise language - If you're going to say something, don't beat around the bush.
-- [ ] Cite, Cite, Cite. Cite images, software, anything of that nature.
-- [ ] When making examples, use variables instead of numbers, or use symbols/math characters instead of acronyms.
-- [ ] Italicize words or phrases distinct to your work.
+- [ ] Cite your sources. In particular, cite all images, methods, software, and empirical data.
+- [ ] When giving examples, use variables instead of numbers and use symbolic math instead of acronyms.
+- [ ] When you introduce words or phrases that are unusual or likely to be unfamiliar to the reader, italicize them.
 - [ ] You're a human writing for other humans: Make the wording exciting, and remember some people reading it won't know as much as you do. Be specific, yet general enough for others to know.
 - [ ] If you use an uncommon word, either consider changing it or define it in its first usage.
 - [ ] Don't repeat yourself too much. Using the same phrase every few paragraphs gets boring.
