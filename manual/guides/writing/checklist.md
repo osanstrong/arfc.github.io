@@ -58,7 +58,7 @@ This [writing checklist](/manual/guides/writing/checklist) is mostly from advice
 - [ ] When you introduce words or phrases that are unusual or likely to be unfamiliar to the reader, italicize them.
 - [ ] You're a human writing for other humans: Make the wording exciting, and remember some people reading it won't know as much as you do. Be specific, yet general enough for others to know.
 - [ ] If you use an uncommon word, either consider changing it or define it in its first usage.
-- [ ] Don't repeat yourself too much. Using the same phrase every few paragraphs gets boring.
+- [ ] Vary your sentence structure to keep readers engaged.
 ```
 
 Additional Table and Figure Checklist:
