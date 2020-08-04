@@ -56,8 +56,8 @@ This [writing checklist](/manual/guides/writing/checklist) is mostly from advice
 - [ ] Cite your sources. In particular, cite all images, methods, software, and empirical data.
 - [ ] When giving examples, use variables instead of numbers and use symbolic math instead of acronyms.
 - [ ] When you introduce words or phrases that are unusual or likely to be unfamiliar to the reader, italicize them.
-- [ ] You're a human writing for other humans: Make the wording exciting, and remember some people reading it won't know as much as you do. Be specific, yet general enough for others to know.
 - [ ] If you use an uncommon word, either consider changing it or define it in its first usage.
+- [ ] You're a human writing for other humans: Make the wording exciting, and remember some people reading it won't know as much jargon as you do.
 - [ ] Vary your sentence structure to keep readers engaged.
 ```
 
