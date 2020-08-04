@@ -52,7 +52,7 @@ This [writing checklist](/manual/guides/writing/checklist) is mostly from advice
 - [ ] Cite all software. Review [the principles](https://www.force11.org/software-citation-principles) and try [CiteAs](https://citeas.org/about) if necessary.
 - [ ] Refer to software consistently by name.
 - [ ] Each sentence/paragraph should logically follow the previous sentence/paragraph.
-- [ ] Concise language - If you're going to say something, don't beat around the bush.
+- [ ] Be concise and direct.
 - [ ] Cite your sources. In particular, cite all images, methods, software, and empirical data.
 - [ ] When giving examples, use variables instead of numbers and use symbolic math instead of acronyms.
 - [ ] When you introduce words or phrases that are unusual or likely to be unfamiliar to the reader, italicize them.
