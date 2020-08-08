@@ -60,6 +60,11 @@ compiles or re-compiles a program or process through a user-defined command in t
 CMake generates makefiles, similar Make or a makefile, except that it is much 
 more compatible with C++.
 
+### Resources:
+- [Overview](https://cmake.org/overview/)
+- [Step-by-step Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+- [Wiki](https://gitlab.kitware.com/cmake/community/-/wikis/Home)
+
 ## Snakemake Files
 Snakemake is a workflow engine with a python-based language and an optimizing 
 execution environment. It allows developers to write human-readable workflows that 
@@ -69,11 +74,6 @@ document themselves.
 - [Tutorial](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html)
 - [Examples](https://github.com/snakemake/snakemake/tree/master/examples)
 - [Wiki](https://snakemake.readthedocs.io/en/stable/index.html)
-
-#### Resources:
-- [Overview](https://cmake.org/overview/)
-- [Step-by-step Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
-- [Wiki](https://gitlab.kitware.com/cmake/community/-/wikis/Home)
 
 ## Docker Files
 A Dockerfile is a text file that contains commands that can be used from the 
