@@ -17,7 +17,7 @@ Before you start, make sure you know :
 
 ## Template
 
-A LaTeX-beamer-based poster template for ARFC appears here:
+A LaTeX-beamer-based poster template for ARFC appears [here](https://github.com/arfc/poster-template).
 
 
 ## Rules of the Poster
@@ -32,3 +32,4 @@ A LaTeX-beamer-based poster template for ARFC appears here:
 - Only essential equations should appear.
 - All variables should be defined clearly at first use.
 - Avoid acronyms.
+- Review the [Writing Checklist](/manual/guides/writing/checklist/)
