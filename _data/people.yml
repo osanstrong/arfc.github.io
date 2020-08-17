@@ -142,6 +142,17 @@
       icon: linkedin
       name: Linkedin
 
+- name: Oleksandr Yardas
+  pic: /img/people/yardaso.jpeg
+  dates: 2020-present
+  role: Graduate Research Assistant
+  description: 'Olek is a graduate student interested in passive safety and operations, microreactors, and decentralized power generation. He is still trying to figure out how to integrate these interests into a viable career.'
+  social:
+      - url: mailto:oyardas2@illinois.edu
+        icon: envelope-o
+        name: email
+
+
 - name: Kip Kleimenhagen
   pic: /img/people/kleimenhagenk.jpg
   dates: 2019-present
