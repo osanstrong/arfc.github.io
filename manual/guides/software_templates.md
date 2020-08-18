@@ -23,7 +23,7 @@ is designed for scientific python projects. The template comes with everything a
 small-scale project might need, and can be easily adapted for python projects.
 
 To get a sense of whether or not using the Shablona template is appropriate for 
-your project, checkout the 
+your project, check out the 
 [example](https://github.com/uwescience/shablona/tree/master/examples) provided.
 
 ## Cookiecutter
@@ -95,7 +95,7 @@ which also has a lot of useful information on what different components do.
 Continuous integration with CircleCI allows users to verify that their contributions do not break any software functionality.
 CircleCI automatically builds environments and executes tests before every pull request. An example repository 
 is [PyNE](https://github.com/pyne/pyne), which employs CircleCI to run multiple 
-tests on every pull request. 
+tests on every pull request. Prof. Huff's book gives an overview of testing approaches.
 
 ### Resources:
 - [Getting Started](https://circleci.com/docs/2.0/hello-world/)
