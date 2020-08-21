@@ -49,8 +49,15 @@ This [writing checklist](/manual/guides/writing/checklist) is mostly from advice
 - [ ] Always use isotopic notation like `$^{239}Pu$`. Never $Pu-239$ or plutonium-239.
 - [ ] Elemental symbols (Ni, Li, Na, Pu) are capitalized, but their names are not (nickel, lithium, sodium, plutonium).
 - [ ] A phrase of the form <verb>ion of <noun> is probably clearer as <noun> <verb>ion. (For example, convert "calculation of velocity" to "velocity calculation".)
-- [ ] Cite all software. Review [the principles](https://www.force11.org/software-citation-principles) and try [CiteAs](https://citeas.org/about) if necessary.
+- [ ] Cite all images, methods, software, and empirical data. Review [the principles](https://www.force11.org/software-citation-principles) and try [CiteAs](https://citeas.org/about) if necessary.
 - [ ] Refer to software consistently by name.
+- [ ] Each sentence/paragraph should logically follow the previous sentence/paragraph.
+- [ ] Be concise and direct.
+- [ ] When giving examples, use variables instead of numbers and use symbolic math instead of acronyms.
+- [ ] When you introduce words or phrases that are unusual or likely to be unfamiliar to the reader, italicize them.
+- [ ] If you use an uncommon word, either consider changing it or define it in its first usage.
+- [ ] You're a human writing for other humans: Make the wording exciting, and remember some people reading it won't know as much jargon as you do.
+- [ ] Vary your sentence structure to keep readers engaged.
 ```
 
 Additional Table and Figure Checklist:
