@@ -102,7 +102,7 @@ diri_temp=922
 nt_scale=1e13
 ```
 
-- `flow_velocity` is used to set the upward flow velocity of the fuel / molton
+- `flow_velocity` is used to set the upward flow velocity of the fuel / molten
   salt in this model.
 - `ini_temp` is used below to set the initial temperature in the fuel and moderator.
 - `diri_temp` is used to control the inlet temperature boundary condition.
@@ -333,7 +333,7 @@ variable (from the [Variables](#Variables) block) associated with the term, or
 equivalently which PDE the term will be included in. MOOSE provides several
 standard kernels that can be included in a PDE. Moltres defines an additional set
 of kernels that are useful in modeling neutron flux and associated phenomenon in
-molton salt reactors. The mathematical form of the Moltres kernels can be found
+molten salt reactors. The mathematical form of the Moltres kernels can be found
 on the [kernel wiki page](/software/moltres/wiki/kernels).
 
 Kernels can be optionally restricted to specific subdomains within the model by setting
