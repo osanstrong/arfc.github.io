@@ -168,6 +168,19 @@
         icon: twitter
         name: Twitter
 
+- name: Luke Seifert
+  pic: /img/people/seifertl.png
+  dates: 2020-present
+  role: Graduate Research Assistant
+  description: "Luke is a PhD student interested in advanced reactor modeling and simulation, particularly Molten Salt Reactors."
+  social:
+      - url: mailto:seifert5@illinois.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/LukeSeifert
+        icon: github-alt
+        name: Github
+
 - name: Kip Kleimenhagen
   pic: /img/people/kleimenhagenk.jpg
   dates: 2019-present
