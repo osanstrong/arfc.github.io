@@ -180,7 +180,7 @@
     - url: https://github.com/kipk49
       icon: github-alt
       name: Github
-      
+
 - name: Gavin Davis
   pic: /img/people/davisg.jpg
   dates: 2019-present
@@ -209,7 +209,7 @@
     - url: https://github.com/datw0258
       icon: github-alt
       name: GitHub
-    
+
 - name: Nathan Ryan
   pic: /img/people/ryann.png
   dates: 2020-present
@@ -225,7 +225,7 @@
     - url: https://www.linkedin.com/in/nathan-ryan-5a06b8193
       icon: linkedin
       name: LinkedIn
-      
+
 - name: Amber Hunter
   pic: /img/people/huntera.png
   dates: 2020-present
@@ -238,6 +238,19 @@
     - url: https://github.com/amberhhunter
       icon: github-alt
       name: GitHub
+
+- name: Anna Balla
+  pic: /img/people/ballaa.png
+  dates: 2020-present
+  role: Undergraduate Research Assistant
+  description: 'Anna is an NPRE undergraduate working on advanced reactor deployment efforts and video production for graduate reactor theory curriculum.'
+  social:
+    - url: mailto:acballa2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://www.linkedin.com/in/anna-balla/
+      icon: linkedin
+      name: LinkedIn
 
 - name: You
   pic: /img/people/you.png
