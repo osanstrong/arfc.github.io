@@ -252,6 +252,23 @@
       icon: github-alt
       name: GitHub
 
+- name: Nataly Panczyk
+  pic: /img/people/panczykn.png
+  dates: 2020-present
+  role: Undergraduate Research Assistant
+  description: 'Nataly is an undergraduate in NPRE at UIUC. Her interests in nuclear power stem largely from her concern for the environment and her love of physics, math, and computer science.'
+  social:
+    - url: mailto:panczyk2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/npanczyk
+      icon: github-alt
+      name: GitHub
+    - url: https://twitter.com/panczyk_nataly
+      icon: twitter
+      name: Twitter
+
+
 - name: Anna Balla
   pic: /img/people/ballaa.png
   dates: 2019-present
@@ -279,3 +296,5 @@
     - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
       icon: map-marker
       name: 118 Talbot Lab
+
+
