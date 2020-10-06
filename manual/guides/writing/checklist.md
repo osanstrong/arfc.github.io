@@ -15,7 +15,7 @@ This [writing checklist](/manual/guides/writing/checklist) is mostly from advice
 
 ```markdown
 - [ ] Run a spell checker.
-- [ ] The Oxford comma must appears in lists ("lions, tigers, and bears.")
+- [ ] The Oxford comma must appear in lists ("lions, tigers, and bears.")
 - [ ] Do not use the word "where" unless referring to a location (try "such that" or "in which").
 - [ ] Do not use the word "when" unless referring to a time (try "if" instead).
 - [ ] Only use "large" when referring to size.
