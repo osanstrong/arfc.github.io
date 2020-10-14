@@ -1,3 +1,20 @@
+- title: "The Future of Nuclear Energy"
+  presenter: Samuel G. Dotson
+  event: Rotary Club of Highland Park and Highwood
+  type: Outreach Presentation
+  place: Online Virtual Meeting
+  month: October
+  day: 12
+  year: 2020
+  time: 12:00 pm
+  pic: '/img/pres/2020-10-12-dotson-outreach.png'
+  vid: https://youtu.be/TY0_yvAC5Xg
+  slides: '/pres/2020-10-12-dotson-outreach.pdf'
+  description: "Nuclear energy has to the potential to promote peace by enabling
+  the decommissioning of nuclear weapons and societies can leverage nuclear's zero
+  emissions electricity to fully decarbonize their electric grids for a green future.
+  Join Sam in a conversation about the future of nuclear energy."
+
 - title: "Optimal Sizing of a Micro-reactor on Embedded Grid Systems"
   presenter: Samuel G. Dotson
   event: American Nuclear Society Annual Meeting 2020
