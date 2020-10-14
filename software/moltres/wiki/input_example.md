@@ -483,7 +483,7 @@ $$ \underbrace{\rho c_p \frac{\partial T}{\partial t}}_{[1]}
 The `BCs` block is very similar to the `Kernels` block except the
 `boundary = <boundary_names>` parameter must be specified to indicate where the boundary
 conditions should be applied. The mathematical form of the BCs can be found on
-the [BCs wiki page](https://www.mooseframework.org/modules/porous_flow/boundaries.html).
+the [BCs wiki page](/software/moltres/wiki/bcs).
 
 ```
 [BCs]
@@ -612,7 +612,7 @@ of the MOOSE framework. Its useful for creating material properties that are
 functions of solution variables and for coupling the dependency of the property
 on the variable back into the Jacobian used for Newton-Raphson. A more in-depth
 description of the material along with its relatives is given
-[here](https://mooseframework.inl.gov/source/materials/DerivativeParsedMaterial.html).
+[here](https://www.mooseframework.org/modules/phase_field/FunctionMaterials.html).
 
 Users can exert their greatest influence on the calculations through the
 `Materials` block. Increasing values of `rho` or `cp` will increase materials
