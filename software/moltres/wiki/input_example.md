@@ -233,7 +233,7 @@ dimension of the mesh, the argument following `-o` is the name of the output
 Gmsh or Cubit can be used for generation of highly complex mesh
 structures. However, if the user just wishes to generate a simple mesh, he/she
 may use MOOSE's built-in type `GeneratedMesh`. For using `GeneratedMesh` we
-refer the reader [here](http://mooseframework.org/wiki/MooseSystems/Mesh/).
+refer the reader [here](https://mooseframework.inl.gov/source/mesh/GeneratedMesh.html).
 
 #### `Problem` Block
 
