@@ -55,7 +55,7 @@ download to use this technique.
 full screen word processor that can track daily goals, has built-in timers, and
 colorful themes. Available on Ubuntu, Mac, or Windows.
 - [ColdTurkeyWriter](https://getcoldturkey.com/writer/) is the **nuclear option** of
-word processors. Once you open the app and set a goal (time or word count) 
+word processors. Once you open the app and set a goal (time or word count)
 you *cannot* exit the app until the goal is completed. Caveats: Only the basic version is
 free (though you don't need much more), it's only available on Windows/Mac.
 3. Have a distraction-free word processor open on computer start up. Doing this
@@ -64,4 +64,4 @@ before you can do anything else!
 
 ### Stanford MOOC on Writing in the Sciences
 
-Prof. Huff's [writing checklist](/manual/guides/writing/checklist) is mostly from advice in this  [massively open online course](https://online.stanford.edu/course/writing-sciences-self-paced-spring-2016). You can take it yourself, for free, at your own pace.
+Prof. Huff's [writing checklist](/manual/guides/writing/checklist) is mostly from advice in this  [massively open online course](https://www.coursera.org/learn/sciwrite/). You can take it yourself, for free, at your own pace.
