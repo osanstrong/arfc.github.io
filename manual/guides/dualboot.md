@@ -29,6 +29,8 @@ boot (I recommend 50 GB)
 Once you have those things, you will be able to dual boot. This [dual booting tutorial](https://www.youtube.com/watch?v=Z-Hv9hOaKso) is
 very clear and will walk you through each step.
 
+**As of October, 2020: The recommended version is Ubuntu 20.04 LTS**
+
 ## After You've Installed Linux
 
 When you boot up Linux for the first time you will have very few applications
