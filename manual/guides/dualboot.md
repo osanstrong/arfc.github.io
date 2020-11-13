@@ -34,7 +34,7 @@ machine, you can certainly abandon Windows entirely and install Linux alone.
 You will need:
 - An empty flash drive with at least 5 GB of storage
 - At least 25 GB of available hard drive space on the computer you wish to dual
-boot (I recommend 50 GB)
+boot (recommended: 50 GB)
 - Some patience
 
 Once you have those things, you will be able to dual boot. This 
@@ -61,6 +61,8 @@ bash ubuntu-post-installer.sh
 
 ### Alternatives to Dual Booting
 
+
+#### Windows Linux Subsystem
 If you don't want to dual boot and just want to use the Linux terminal, Windows
 offers an application called "Windows Linux Subsystem." It works, but you will
 probably be frustrated because the Linux subsystem doesn't interface well with
@@ -71,6 +73,8 @@ open a graphical user interface from within the Windows Linux subsystem.
 However, if that is the path you would like to take you can follow this
 [tutorial](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 
+#### Virtual Box
+
 A somewhat more robust approach is to create a virtual machine using [VirtualBox](https://www.virtualbox.org/).
 To do this, you'll need to:
 
@@ -80,4 +84,15 @@ To do this, you'll need to:
 4. Open VirtualBox
 5. Following the [instructions on the VirtualBox site](https://www.virtualbox.org/manual/UserManual.html#gui-createvm) to create a linux virtual machine using the Ubuntu image file you downloaded in step 2.
 6. Now you have a fully functional Ubuntu operating system that you can open as an application while booted into your Windows operating system.
+
+
+### Obstacles and Challenges
+
+_Caution_:
+New Windows computers with Intel 9th Generation (or higher) CPUs use "Rapid Storage Technology" which must be disabled before installing
+your chosen Linux distribution.
+This process is non-trivial and users are warned that there is a risk of data loss.
+Consider using alternatives to dual booting. 
+If you are determined to dual boot, there is a [video tutorial](https://www.youtube.com/watch?v=2uXgbF3P2F8&ab_channel=VincentT)
+that walks you through the steps.
 
