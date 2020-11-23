@@ -103,6 +103,7 @@ twitter accounts, and whatnot that tie us together.
 - Prototyping
 - [Software Templates](/manual/guides/software_templates)
 - Collaborating
+- [Dual Booting Ubuntu](/manual/guides/dualboot)
 - [Pull Requests (PRs)](/manual/guides/pull_requests)
 - Issues
 - Releases
