@@ -36,6 +36,12 @@
   url: '/positions/grad'
   description: 'Graduate research assistants in ARFC are PhD or masters students enrolled at UofI, typically in the NPRE department. These students can be supported to conduct research that advances a dissertation or thesis project that is in synergy with the mission of the research group as a whole.'
   available:
+    - title: "Graduate Research Assistant - General"
+      description: 'Even if funding is not available, applications from exceptional graduate applicants are welcome. Prof. Huff would be happy to guide you in fellowship applications to support your research.'
+      required: "python, git, acceptance to the NPRE PhD probram"
+      desired: "python, git"
+      pic: /img/positions/you.png
+      start: "TBD"
   closed:
     - title: "Summer Graduate Research Assistant: in Energy Analysis"
       description: 'The candidate will modify a computational model of the technological and economic aspects of the energy system in Japan, simulate future carbon reduction scenarios, identifying a reduced carbon future for Japan, and writing associated reports. This is a summer-only position. Graduate research applicants should be PhD or masters students enrolled at UofI, ideally in the NPRE department, though students in energy-related fields will be considered. To apply, submbit a resume to Prof. Huff by April 20, 2019.'
@@ -62,7 +68,7 @@
   url: '/positions/ugrad'
   description: 'Within ARFC, many projects appropriate for undergraduates require a significant dedication to learning software skills and best practices. Accordingly, we look for undergraduates who are available for at least 10 hours a week. We additionally invite undergraduates to join in our group meetings. In return for this higher level of participation, we will dedicate the time necessary to train you in high-utility computational skills.'
   available:
-          - title: "Undergraduate Researcher: Technical Editing" 
+    - title: "Undergraduate Researcher: Technical Editing" 
       description: 'The candidate will review draft reports, presentations, and articles regarding original research by the Advanced Reactors and Fuel Cycles group as they arise.
       The student will review and edit these items for clarity, techincal accuracy, grammar, format, flow, etc. The student will be expected to work well both independently and with mentorship. A strong interest in computational nuclear engineering will be required. Apply by sending an up-to-date resume and a writing sample by email to Prof. Huff by by April 10, 2019.'
       required: "Fluent English"
