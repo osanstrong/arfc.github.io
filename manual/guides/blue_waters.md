@@ -40,7 +40,10 @@ Open terminal, type
 ```
 $ssh [username]@h2ologin.ncsa.illinois.edu
 ```
-You will then be prompted for your password, followed by an option to select from a list of your registered tokens. After selecting the token you will use (if you only have one token, simply type 1), either enter your pin and token number or approve the login request with Duo, depending on what token type you are using.
+You will then be prompted for your password, followed by an option to select from a list of your 
+registered tokens. After selecting the token you will use (if you only have one token, simply 
+type 1), either enter your pin and token number or approve the login request with Duo, 
+depending on what token type you are using.
 
 
 
@@ -147,4 +150,3 @@ Navigate to
  /projects/sciteam/bbcc/projects/
 ```
  and read the readme file located there. It provides useful information to properly setup a pbs script and run Moltres.
-
