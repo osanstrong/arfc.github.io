@@ -141,4 +141,11 @@ Get source codes by:
 
    Expand the archive with the tar or the unzip command.
 
+## Using Moltres
+Navigate to 
+```
+ /projects/sciteam/bbcc/projects/
+```
+ and read the readme file located there. It provides useful information to properly setup a pbs script and run Moltres.
+
 
