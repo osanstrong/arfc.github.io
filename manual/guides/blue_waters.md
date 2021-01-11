@@ -15,8 +15,9 @@ the Google Drive software licenses directory.
 Have Prof Huff get you approved for Blue Waters!
 
 ## Step 2. Apply for Blue Waters
-Follow the link and fill out the application
-        You can either receive a virtual token or a physical token
+You should recieve an email with a link to continue your validation process.
+Follow the link and fill out the application.
+        You can either receive a virtual token or a physical token.
         A Virutal token is done through your mobile device,
         and a physical token looks like this:
  
@@ -30,11 +31,8 @@ follow the instruction sent to you by email.
 Wait patiently for the token to arrive.
 
 ## Step 4. Activating Token
-With your token, open the email 'Blue Waters Instructions'
-Click the [link](https://otp.ncsa.illinois.edu)
-and follow its directions, and activate your token.
+For activating the token, instructions should be contained within the emails recieved. Extra information can be found [here](https://wiki.ncsa.illinois.edu/display/cybersec/Duo+at+NCSA).
 
-** tip) the pin must be 8 digits, letters and numbers, something that you'll never forget!
 
 
 ## Step 5. Loggin In
@@ -42,10 +40,8 @@ Open terminal, type
 ```
 $ssh [username]@h2ologin.ncsa.illinois.edu
 ```
+You will then be prompted for your username, password, token selection, and then your token input.
 
-
-
-type in PIN+Token#
 
 
 
@@ -83,6 +79,14 @@ You're in! :)
 
 ![alt text](/img/manual/guides/bw-welcome.png)
 
+#### tip) running jobs
+To start running jobs on Blue Waters, it is useful to look at what other people use as well as the documentation:
+1. Create a [file_name].pbs script (which contains an aprun command).
+ A good way to find example job scripts is to search through the arfc repo for code containing ".pbs".
+ More information can be found [here](https://bluewaters.ncsa.illinois.edu/running-your-jobs) to understand how these job scripts function.
+2. Use qsub [file_name].pbs to submit the job.
+
+
 ## Step 7. Module Loading
 Various modules can be loaded and the available modules can be listed using the following commands:
 
@@ -105,9 +109,10 @@ after editing the bashrc, you must source it:
 $source ~/.bashrc
 ```
 
+
 ## The Group Directory
 ```
-/projects/sciteam/bahg
+/projects/sciteam/bbcc
 ```
 
 ## How to Download Source Code
