@@ -87,7 +87,11 @@ as you go along.
 
 # Responding to Pull Request Reviews
 
+GitHub has posted some excellent 
+[advice on responding to pull request feedback](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request).
+Below are the basic steps. 
 
+```markdown
 - [ ] Read the review comments.  These can include general comments on the 
   technical substance, documentation, performance, clarity, reproducibility, 
   coding style, and even the formatting of the submission.
@@ -108,3 +112,4 @@ as you go along.
   in the sidebar of the Conversation tab, click the refresh icon.
 - [ ] Once the PR has been approved by at least one reviewer, a reviewer will 
   merge the changes and the PR will be closed.
+```
