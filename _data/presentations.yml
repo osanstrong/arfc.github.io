@@ -19,23 +19,13 @@
   purposes. Modelling and simulation of nuclear reactors with their complex 
   geometry, and involvement of different physics and scales is one of the major 
   challenges in the field. Development of new reactor designs also requires 
-  understanding of new and better approach to model them appropriately. The 
-  IAEA’s ONCORE initiative is an effort to bring together developers from 
-  across the world to contribute and collaborate in the development of codes, 
-  which are open source and can further be developed as per the requirements of 
-  the reactor design. Multiphysics code take an integrated approach to model 
-  different physics at different scales, and therefore has its own challenges 
-  to address. This webinar aims to provide some insights into Multiphysics 
+  understanding of new and better approach to model them appropriately. 
+  This webinar aims to provide some insights into Multiphysics 
   modelling of advanced nuclear reactors, their benefits, challenges and 
   different approaches to develop these complex nuclear codes. This webinar is 
   also part of the outreach effort to engage interested member states in the 
   ONCORE initiative. The webinar is particularly useful for professionals and 
   researchers in this field."
-
-- title: "Optimal Sizing of a Micro-reactor on Embedded Grid Systems"
-  presenter: Samuel G. Dotson
-  event: American Nuclear Society Annual Meeting 2020
-
 
 - title: "The Future of Nuclear Energy"
   presenter: Samuel G. Dotson
