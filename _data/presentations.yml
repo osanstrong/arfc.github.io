@@ -1,3 +1,42 @@
+- title: ""
+  presenter: Multiphysics Modeling Using the MOOSE Framework  
+  event: IAEA Workshop on Multiphysics Modeling to Optimize Design and Safety of Advanced Nuclear Reactors
+  type: International Workshop
+  place: Online Virtual Meeting
+  month: March
+  day: 17
+  year: 2021
+  time: 8:30 am
+  pic: '/img/pres/2021-03-17-huff-iaea.png'
+  vid: https://www.iaea.org/nptd-webinars/1-multiphysics-modelling-to-optimize-design-and-safety-of-advanced-nuclear-reactors
+  slides: '/pres/2021-03-17-iaea.pdf'
+  description: "The International Atomic Energy Agency has recently initiated a 
+  project on open source nuclear codes for reactor analysis (ONCORE). The IAEA 
+  aims to support and strengthen its Member States’ capabilities in the field 
+  of advanced reactors modelling and simulations, and is making use of ONCORE 
+  platform to support, coordinate, and collaborate in the development of 
+  open-source code for research and development and education and training 
+  purposes. Modelling and simulation of nuclear reactors with their complex 
+  geometry, and involvement of different physics and scales is one of the major 
+  challenges in the field. Development of new reactor designs also requires 
+  understanding of new and better approach to model them appropriately. The 
+  IAEA’s ONCORE initiative is an effort to bring together developers from 
+  across the world to contribute and collaborate in the development of codes, 
+  which are open source and can further be developed as per the requirements of 
+  the reactor design. Multiphysics code take an integrated approach to model 
+  different physics at different scales, and therefore has its own challenges 
+  to address. This webinar aims to provide some insights into Multiphysics 
+  modelling of advanced nuclear reactors, their benefits, challenges and 
+  different approaches to develop these complex nuclear codes. This webinar is 
+  also part of the outreach effort to engage interested member states in the 
+  ONCORE initiative. The webinar is particularly useful for professionals and 
+  researchers in this field."
+
+- title: "Optimal Sizing of a Micro-reactor on Embedded Grid Systems"
+  presenter: Samuel G. Dotson
+  event: American Nuclear Society Annual Meeting 2020
+
+
 - title: "The Future of Nuclear Energy"
   presenter: Samuel G. Dotson
   event: Rotary Club of Highland Park and Highwood
