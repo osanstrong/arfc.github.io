@@ -1,4 +1,16 @@
 - title: ""
+  presenter: Amanda M. Bachmann
+  event: American Nuclear Society Student Conference
+  place: Online Virtual Meeting
+  month: April
+  day: 8-10
+  year: 2021
+  slides: '/pres/2021-bachmann-ans-student.pdf'
+  descrption: "This presentation explores resource requirements for the transition
+  to advanced reactors fueled by High-Assay Low Enriched Uranium (HALEU). This 
+  work is funded through an NEUP Fellowship."
+
+- title: ""
   presenter: Multiphysics Modeling Using the MOOSE Framework  
   event: IAEA Workshop on Multiphysics Modeling to Optimize Design and Safety of Advanced Nuclear Reactors
   type: International Workshop
