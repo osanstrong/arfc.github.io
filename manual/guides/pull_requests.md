@@ -37,7 +37,9 @@ Below is a checklist the PR reviewer should
 consider before approving a pull request. As a reminder, the
 [ARFC Code of Conduct](http://arfc.github.io/manual/coc) still applies
 in pull request reviews. Reviews should be both thorough and
-respectful.
+respectful. Comments can be made and changes can be requested for a specific 
+line or lines and the reviewer can even write their own code to improve the 
+committed files using the `+/-` button. 
 
 If you are about to review a PR, consider copying and pasting
 this checklist into your review comment and checking the boxes
@@ -85,18 +87,29 @@ as you go along.
 
 # Responding to Pull Request Reviews
 
-Reviews on pull requests include comments, approvals, and
-suggestions for changes. Comments can include general comments on the
-technical substance, documentation, performance, clarity, reproducibility, 
-coding style, and even the formatting of the submission. Changes can be
-requested for a specific line or lines, where the reviewer can even write
-their own code to improve the committed files. These changes can
-either be discussed in the comment box or committed directly from the
-review with the `commit suggestion` button. With this button, the
-suggested changes are committed and pushed immediately
-to the PR branch, which makes
-incorporating suggested changes faster. Do not leave comments un-handled.
-All reviewer comments should be incorporated, responded to, handled, or 
-discussed further. Once the PR has been approved
-by at least one reviewer, a reviewer will merge the changes and the PR will
-be closed.
+GitHub has posted some excellent 
+[advice on responding to pull request feedback](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request).
+Below are the basic steps. 
+
+```markdown
+- [ ] Read the review comments.  These can include general comments on the 
+  technical substance, documentation, performance, clarity, reproducibility, 
+  coding style, and even the formatting of the submission.
+- [ ] Some comments contain commit suggestions. These comments can either be 
+  discussed in the comment box or committed directly from the review with the 
+  `commit suggestion` button. With this button, the suggested changes are 
+  committed and pushed immediately to the PR branch, which makes incorporating 
+  suggested changes faster.
+- [ ] For other comments, discuss the suggestion in the comment box and either 
+  make commits that directly satisfy it or eventually resolve it in some other 
+  way.
+- [ ] As you make commits, push them to your pull request branch.
+- [ ] All reviewer comments should be incorporated, responded to, handled, and/or 
+  discussed further.  Do not leave comments un-handled.
+- [ ] Once you have handled all comments, it's wise to alert the reviewers that 
+  the PR is ready to be re-reviewed. It's best practice to make a comment in 
+  the PR and to re-request a review. To request a fresh review from a reviewer, 
+  in the sidebar of the Conversation tab, click the refresh icon.
+- [ ] Once the PR has been approved by at least one reviewer, a reviewer will 
+  merge the changes and the PR will be closed.
+```
