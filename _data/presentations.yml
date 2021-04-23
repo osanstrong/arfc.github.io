@@ -1,15 +1,18 @@
 - title: "Enriched Uranium Supply Requirements for the Transition to Advanced Reactors"
   presenter: Amanda M. Bachmann
   event: American Nuclear Society Student Conference
+  type: Technical Presenation
   place: Online Virtual Meeting
   month: April
   day: 8-10
   year: 2021
   pic: '/img/pres/2021-04-08-bachmann-ans.png'
   slides: '/pres/2021-bachmann-ans-student.pdf'
-  descrption: "This presentation explores resource requirements for the transition
-  to advanced reactors fueled by High-Assay Low Enriched Uranium (HALEU). This 
-  work is funded through an NEUP Fellowship."
+  description: "Some of the designs for advanced reactors will require 
+  High-Assay Low Enriched Uranium (HALEU), which requires a higher enrichment 
+  level than the fuel for current Light Water Reactors. This presentation 
+  explores resource requirements for the transition to advanced reactors 
+  fueled by HALEU. This work is funded through an NEUP Fellowship."
 
 - title: ""
   presenter: Multiphysics Modeling Using the MOOSE Framework  
