@@ -36,6 +36,13 @@
   url: '/positions/grad'
   description: 'Graduate research assistants in ARFC are PhD or masters students enrolled at UofI, typically in the NPRE department. These students can be supported to conduct research that advances a dissertation or thesis project that is in synergy with the mission of the research group as a whole.'
   available:
+    - title: "Graduate Research Assistant - General"
+      description: 'Even if funding is not available, applications from exceptional graduate applicants are welcome. Prof. Huff would be happy to guide you in fellowship applications to support your research.'
+      required: "python, git, acceptance to the NPRE PhD probram"
+      desired: "python, git"
+      pic: /img/positions/you.png
+      start: "TBD"
+  closed:
     - title: "Summer Graduate Research Assistant: in Energy Analysis"
       description: 'The candidate will modify a computational model of the technological and economic aspects of the energy system in Japan, simulate future carbon reduction scenarios, identifying a reduced carbon future for Japan, and writing associated reports. This is a summer-only position. Graduate research applicants should be PhD or masters students enrolled at UofI, ideally in the NPRE department, though students in energy-related fields will be considered. To apply, submbit a resume to Prof. Huff by April 20, 2019.'
       required: "active graduate status in NPRE or related field, interest in energy analysis, competency with Microsoft Excel"
@@ -48,7 +55,6 @@
       desired: "C++, python, git, statistics, machine learning"
       pic: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nuclear_Fuel_Cycle.svg/820px-Nuclear_Fuel_Cycle.svg.png"
       start: "May 2019"
-  closed:
     - title: "Graduate Research Assistant in Fuel Cycle Simulation"
       description: 'The candidate will design and conduct validation cases, code-to-code comparison simulations and key transition scenarios in the Cyclus framework to demonstrate and improve upon predictive algorithms for deployment of nuclear facilities and materials. We will seek to improve upon and demonstrate the mathematical methods implemented by collaborators at the University of South Carolina in the context of advanced nuclear fuel cycle transitions.  Graduate research assistants in ARFC are PhD or masters students enrolled at UofI, typically in the NPRE department. These students can be supported to conduct research that advances a dissertation or thesis project that is in synergy with the mission of the research group as a whole.'
       required: "acceptance into the NPRE graduate program, interest in fuel cycle analysis, competency in some programming language."
@@ -62,32 +68,31 @@
   url: '/positions/ugrad'
   description: 'Within ARFC, many projects appropriate for undergraduates require a significant dedication to learning software skills and best practices. Accordingly, we look for undergraduates who are available for at least 10 hours a week. We additionally invite undergraduates to join in our group meetings. In return for this higher level of participation, we will dedicate the time necessary to train you in high-utility computational skills.'
   available:
-    - title: "Undergraduate Summer: Technical Editing (Full Time)" 
-      description: 'The candidate will review draft reports, presentations, and articles regarding original research by the Advanced Reactors and Fuel Cycles group as they arise.
-      The student will review and edit these items for clarity, techincal accuracy, grammar, format, flow, etc. The student will be expected to work well both independently and with mentorship. A strong interest in computational nuclear engineering will be required. Apply by sending an up-to-date resume and a writing sample by email to Prof. Huff by by April 10, 2019.'
-      required: "Fluent English"
-      desired: "git, LaTeX, Google Docs"
-      pic: /img/positions/postdoc.png
-      start: "May 2019"
-    - title: "Undergraduate Summer: Nuclear Fuel Cycle Simulation (Full Time)"
-      description: 'The candidate will address open issues in the Cyclus ecosystem as they arise. This will include quality assurance efforts, assessment of documentation clarity, and development of software tests. The student will be expected to work well both independently and with mentorship. A strong interest in scientific computing combined with interest in nuclear energy will be required. Apply by sending an up-to-date resume by email to Prof. Huff by April 20, 2019.'
+    - title: "Undergraduate Researcher: Decarbonization in Illinois"
+      description: 'The candidate will collect energy data, jobs data, carbon emissions data, and other data relevant to the future of nuclear power in Illinois. This will be a short term assignment (April 2021) and will focus on the production of a report. The student will review and edit written work for clarity, techincal accuracy, grammar, format, flow, etc. The student will be expected to work well both independently and in the team. You must be available to do research activities for 20 hours per week throughout April. Additionally, this will include a full day of availability on Tuesday April 13, 2021. Apply by sending an email to Prof. Huff before 8am on Thursday April 8, 2021.'
+      required: "Fluent English, enthusiasm, availability"
+      desired: "git"
+      pic: /img/positions/il-pow.jpg
+      start: "Rolling"
+    - title: "Undergraduate Researcher: Nuclear Fuel Cycle Simulation"
+      description: 'The candidate will address open issues in the Cyclus ecosystem as they arise. This will include quality assurance efforts, assessment of documentation clarity, and development of software tests. The student will be expected to work well both independently and with mentorship. A strong interest in scientific computing combined with interest in nuclear energy will be required. Apply by sending an up-to-date resume by email to Prof. Huff.'
       required: "python, linux"
       desired: "git, C++, bash, Doxygen, Sphinx, pytest"
       pic: /img/research/cyclus.gif
-      start: "May 2019"
-    - title: "Undergraduate Summer: Python for Nuclear Engineering (Full Time)"
-      description: 'The candidate will address open issues in the PyNE toolkit as they arise. This will include quality assurance efforts, assessment of documentation clarity, and development of software tests. The student will be expected to work well both independently and with mentorship. A strong interest in scientific computing combined with interest in nuclear energy will be required. Apply by sending an up-to-date resume by email to Prof. Huff by April 20, 2019.'
+      start: "Rolling"
+    - title: "Undergraduate Researcher: Python for Nuclear Engineering"
+      description: 'The candidate will address open issues in the PyNE toolkit as they arise. This will include quality assurance efforts, assessment of documentation clarity, and development of software tests. The student will be expected to work well both independently and with mentorship. A strong interest in scientific computing combined with interest in nuclear energy will be required. Apply by sending an up-to-date resume by email to Prof. Huff.'
       required: "python, linux"
       desired: "git, C++, bash, Doxygen, Sphinx, pytest"
       pic: /img/research/zen.png
-      start: "May 2019"
-    - title: "Undergraduate Summer: Online Reactor Simulator Game (Full Time)"
+      start: "Rolling"
+  closed:
+    - title: "Undergraduate Summer: Online Reactor Simulator Game"
       description: 'The candidate will identify existing tools and use them to create an online reactor simulator game. This activity will be focused on identifying the key features of an open online educational tool for the public, targetted at young teens.  The student will be expected to work well both independently and with mentorship. A strong interest in scientific computing combined with interest in nuclear energy will be required. Apply by sending an up-to-date resume by email to Prof. Huff by April 20, 2019.'
       required: "C++, python, linux, Bash"
       desired: "git, Doxygen, Sphinx, pytest"
       pic: /img/research/zen.png
       start: "May 2019"
-  closed:
     - title: "Undergraduate Hourly: Nuclear Fuel Cycle Simulation"
       description: 'The candidate will address open issues in the Cyclus ecosystem as they arise. This will include quality assurance efforts, assessment of documentation clarity, and development of software tests. The student will be expected to work well both independently and with mentorship. A strong interest in scientific computing combined with interest in nuclear energy will be required. Apply by sending an up-to-date resume by email to Prof. Huff by September 20, 2018.'
       required: "C++, python, linux, Bash"
