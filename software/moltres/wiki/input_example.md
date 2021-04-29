@@ -233,7 +233,7 @@ dimension of the mesh, the argument following `-o` is the name of the output
 Gmsh or Cubit can be used for generation of highly complex mesh
 structures. However, if the user just wishes to generate a simple mesh, he/she
 may use MOOSE's built-in type `GeneratedMesh`. For using `GeneratedMesh` we
-refer the reader [here](http://mooseframework.org/wiki/MooseSystems/Mesh/).
+refer the reader [here](https://mooseframework.inl.gov/source/mesh/GeneratedMesh.html).
 
 #### `Problem` Block
 
@@ -612,7 +612,7 @@ of the MOOSE framework. Its useful for creating material properties that are
 functions of solution variables and for coupling the dependency of the property
 on the variable back into the Jacobian used for Newton-Raphson. A more in-depth
 description of the material along with its relatives is given
-[here](http://mooseframework.org/wiki/PhysicsModules/PhaseField/DevelopingModels/FunctionMaterials/).
+[here](https://www.mooseframework.org/modules/phase_field/FunctionMaterials.html).
 
 Users can exert their greatest influence on the calculations through the
 `Materials` block. Increasing values of `rho` or `cp` will increase materials
@@ -631,8 +631,8 @@ The `Executioner` and `Preconditioning` blocks are essential to determining the
 method used to solve the system of non-linear equations created by finite
 element discretization of our molten salt reactor governing
 equations. `Executioner` and `Preconditioning` documentation can be found
-[here](http://mooseframework.org/wiki/MooseSystems/Executioners/) and
-[here](http://mooseframework.org/wiki/MooseSystems/Preconditioners/)
+[here](https://www.mooseframework.org/syntax/Executioner/index.html) and
+[here](https://www.mooseframework.org/syntax/Preconditioning/index.html)
 respectively.
 
 ```
@@ -678,7 +678,7 @@ respectively.
 #### `Postprocessors` Block
 
 General postprocessor documentation can be found
-[here](http://mooseframework.org/wiki/MooseSystems/Postprocessors/). In this
+[here](https://www.mooseframework.org/syntax/Postprocessors/index.html). In this
 example, the first three postprocessors `group1_current, group1_old` and
 `multiplication` are used to calculate the neutron multiplication between
 current and old timesteps. The `IntegralNewVariablePostprocessor` integrates the
@@ -734,7 +734,7 @@ moderator as some fraction of the average fission heat produced in the fuel.
 #### `Outputs` Block
 
 `Outputs` documentation is
-[here](http://mooseframework.org/wiki/MooseSystems/Outputs/).
+[here](https://www.mooseframework.org/syntax/Outputs/index.html).
 
 ```
 [Outputs]
@@ -763,7 +763,7 @@ non-linear solve.
 
 The `ICs` block can be used to construct variable initial
 conditions. Documentation is
-[here](http://mooseframework.org/wiki/MooseSystems/ICs/). The commented out
+[here](https://www.mooseframework.org/syntax/ICs/index.html). The commented out
 `ICs` in this particular file are sometimes used to test the Jacobians of new
 kernels and boundary conditions introduced into Moltres.
 

@@ -7,8 +7,8 @@ permalink: /software/moltres/wiki/
 
 When learning Moltres and the underlying MOOSE framework, it may be best to
 start with a
-[tutorial](http://mooseframework.org/wiki/MooseTutorials/DarcyThermoMechanical/)
-and [examples](http://mooseframework.org/wiki/MooseExamples/).
+[tutorial](https://www.mooseframework.org/workshop/#/)
+and [examples](http://mooseframework.org/examples/index.html).
 
 The following pages give the math behind the `Kernel` and `BC` classes that are
 used to construct the weak forms of the PDEs required for the finite element

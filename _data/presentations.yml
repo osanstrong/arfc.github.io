@@ -1,3 +1,65 @@
+- title: "Enriched Uranium Supply Requirements for the Transition to Advanced Reactors"
+  presenter: Amanda M. Bachmann
+  event: American Nuclear Society Student Conference
+  type: Technical Presenation
+  place: Online Virtual Meeting
+  month: April
+  day: 8-10
+  year: 2021
+  pic: '/img/pres/2021-04-08-bachmann-ans.png'
+  slides: '/pres/2021-bachmann-ans-student.pdf'
+  description: "Some of the designs for advanced reactors will require 
+  High-Assay Low Enriched Uranium (HALEU), which requires a higher enrichment 
+  level than the fuel for current Light Water Reactors. This presentation 
+  explores resource requirements for the transition to advanced reactors 
+  fueled by HALEU. This work is funded through an NEUP Fellowship."
+
+- title: "Multiphysics Modeling Using the MOOSE Framework" 
+  presenter: Kathryn Huff
+  event: IAEA Workshop on Multiphysics Modeling to Optimize Design and Safety of Advanced Nuclear Reactors
+  type: International Workshop
+  place: Online Virtual Meeting
+  month: March
+  day: 17
+  year: 2021
+  time: 8:30 am
+  pic: '/img/pres/2021-03-17-huff-iaea.png'
+  vid: https://www.iaea.org/nptd-webinars/1-multiphysics-modelling-to-optimize-design-and-safety-of-advanced-nuclear-reactors
+  slides: '/pres/2021-03-17-huff-iaea.pdf'
+  description: "The International Atomic Energy Agency has recently initiated a 
+  project on open source nuclear codes for reactor analysis (ONCORE). The IAEA 
+  aims to support and strengthen its Member States’ capabilities in the field 
+  of advanced reactors modelling and simulations, and is making use of ONCORE 
+  platform to support, coordinate, and collaborate in the development of 
+  open-source code for research and development and education and training 
+  purposes. Modelling and simulation of nuclear reactors with their complex 
+  geometry, and involvement of different physics and scales is one of the major 
+  challenges in the field. Development of new reactor designs also requires 
+  understanding of new and better approach to model them appropriately. 
+  This webinar aims to provide some insights into Multiphysics 
+  modelling of advanced nuclear reactors, their benefits, challenges and 
+  different approaches to develop these complex nuclear codes. This webinar is 
+  also part of the outreach effort to engage interested member states in the 
+  ONCORE initiative. The webinar is particularly useful for professionals and 
+  researchers in this field."
+
+- title: "The Future of Nuclear Energy"
+  presenter: Samuel G. Dotson
+  event: Rotary Club of Highland Park and Highwood
+  type: Outreach Presentation
+  place: Online Virtual Meeting
+  month: October
+  day: 12
+  year: 2020
+  time: 12:00 pm
+  pic: '/img/pres/2020-10-12-dotson-outreach.png'
+  vid: https://youtu.be/TY0_yvAC5Xg
+  slides: '/pres/2020-10-12-dotson-outreach.pdf'
+  description: "Nuclear energy has to the potential to promote peace by enabling
+  the decommissioning of nuclear weapons and societies can leverage nuclear's zero
+  emissions electricity to fully decarbonize their electric grids for a green future.
+  Join Sam in a conversation about the future of nuclear energy."
+
 - title: "Optimal Sizing of a Micro-reactor on Embedded Grid Systems"
   presenter: Samuel G. Dotson
   event: American Nuclear Society Annual Meeting 2020
