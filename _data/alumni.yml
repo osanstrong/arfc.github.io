@@ -90,7 +90,7 @@
   pic: /img/people/riewskie.jpg
   dates: 2016-2017
   role: Undergraduate Research Assistant
-  description: 'Eric Riewski was an undergraduate researcher with ARFC. He later attended graduate school at the University of Wisconsin - Madiscon.' 
+  description: 'Eric Riewski was an undergraduate researcher with ARFC. He later attended graduate school at the University of Wisconsin - Madiscon.'
   social:
     - url: mailto:riewski2@illinois.edu
       icon: envelope-o
@@ -320,19 +320,6 @@
       icon: github-alt
       name: GitHub
 
-- name: Anna Balla
-  pic: /img/people/ballaa.png
-  dates: summer 2019
-  role: Undergraduate Research Assistant
-  description: 'Anna is a nuclear engineering undergraduate working on using reactor simulation software to develop educational tools for the public.'
-  social:
-    - url: mailto:acballa2@illinos.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/acballa2
-      icon: github-alt
-      name: GitHub
-
 
 - name: Eleonora Skrzypek
   pic: /img/people/skel.png
@@ -399,4 +386,3 @@
     - url: https://github.com/mkozak7
       icon: github-alt
       name: Github
-
