@@ -168,6 +168,19 @@
         icon: twitter
         name: Twitter
 
+- name: Luke Seifert
+  pic: /img/people/seifertl.png
+  dates: 2020-present
+  role: Graduate Research Assistant
+  description: "Luke is a PhD student interested in advanced reactor modeling and simulation, particularly Molten Salt Reactors."
+  social:
+      - url: mailto:seifert5@illinois.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/LukeSeifert
+        icon: github-alt
+        name: Github
+
 - name: Kip Kleimenhagen
   pic: /img/people/kleimenhagenk.jpg
   dates: 2019-present
@@ -180,7 +193,7 @@
     - url: https://github.com/kipk49
       icon: github-alt
       name: Github
-      
+
 - name: Gavin Davis
   pic: /img/people/davisg.jpg
   dates: 2019-present
@@ -209,7 +222,7 @@
     - url: https://github.com/datw0258
       icon: github-alt
       name: GitHub
-    
+
 - name: Nathan Ryan
   pic: /img/people/ryann.png
   dates: 2020-present
@@ -225,7 +238,7 @@
     - url: https://www.linkedin.com/in/nathan-ryan-5a06b8193
       icon: linkedin
       name: LinkedIn
-      
+
 - name: Amber Hunter
   pic: /img/people/huntera.png
   dates: 2020-present
@@ -238,6 +251,36 @@
     - url: https://github.com/amberhhunter
       icon: github-alt
       name: GitHub
+
+- name: Nataly Panczyk
+  pic: /img/people/panczykn.png
+  dates: 2020-present
+  role: Undergraduate Research Assistant
+  description: 'Nataly is an undergraduate in NPRE at UIUC. Her interests in nuclear power stem largely from her concern for the environment and her love of physics, math, and computer science.'
+  social:
+    - url: mailto:panczyk2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/npanczyk
+      icon: github-alt
+      name: GitHub
+    - url: https://twitter.com/panczyk_nataly
+      icon: twitter
+      name: Twitter
+
+
+- name: Anna Balla
+  pic: /img/people/ballaa.png
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Anna is an NPRE undergraduate working on advanced reactor deployment efforts and video production for graduate reactor theory curriculum.'
+  social:
+    - url: mailto:acballa2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://www.linkedin.com/in/anna-balla/
+      icon: linkedin
+      name: LinkedIn
 
 - name: You
   pic: /img/people/you.png
@@ -253,3 +296,5 @@
     - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
       icon: map-marker
       name: 118 Talbot Lab
+
+

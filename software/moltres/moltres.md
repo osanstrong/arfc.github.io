@@ -16,15 +16,15 @@ conditions used to construct the Moltres governing equations can be found on the
 full-fledged Moltres input file can be found
 [here](./wiki/input_example/). New Moltres
 users who have never used MOOSE before are encouraged to check-out its
-[wiki](http://mooseframework.org/wiki/),
-[tutorials](http://mooseframework.org/wiki/MooseTutorials/), and
-[examples](http://mooseframework.org/wiki/MooseExamples/) to help understand the
+[wiki](http://mooseframework.org/documentation.menu.html),
+[tutorials](http://mooseframework.org/workshop/#/), and
+[examples](http://mooseframework.org/examples/index.html) to help understand the
 underlying Moltres components.
 
 ## Install
 
 Moltres relies on the MOOSE framework. To install MOOSE please follow the
-instructions at http://mooseframework.org/getting-started/. After installing
+instructions at [this guide](http://mooseframework.org/getting_started/index.html). After installing
 MOOSE, you can install Moltres by running the following commands in a shell
 after changing into the directory holding your MOOSE directory (perhaps `~/projects`):
 
