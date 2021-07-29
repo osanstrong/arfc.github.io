@@ -16,6 +16,24 @@
       icon: twitter
       name: Twitter
 
+- name: Andrei Rykhlevskii
+  pic: /img/people/rykhlevskiia.jpg
+  dates: 2016-2020
+  role: Graduate Research Assistant
+  src: https://www.linkedin.com/in/arykhlevskii
+  url: https://www.linkedin.com/in/arykhlevskii
+  description: 'Andrei was a Research Assistant with ARFC focusing on fuel depletion calculations for Molten Salt Reactors. He received M.Sc. in 2018 and Ph.D in 2020. He is now a staff scientist at Argonne National Laboratory.'
+  social:
+    - url: mailto:andrewryh@gmail.com
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/andrewryh
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/arykhlevskii
+      icon: linkedin
+      name: Linkedin
+      
 - name: Gavin Ridley
   pic: /img/people/ridleyg.png
   dates: Summer 2017
