@@ -1,0 +1,279 @@
+- name: Katy Huff
+  pic: /img/people/huffk.jpg
+  dates: 2016-present
+  status: PI
+  role: Assistant Professor
+  src: http://kdhuff.web.engr.illinois.edu
+  url: http://kdhuff.web.engr.illinois.edu
+  description: 'Katy is the director of the Advanced Reactors and Fuel Cycles group at Illinois.'
+  social:
+    - url: http://katyhuff.youcanbook.me
+      icon: calendar
+      name: Calendar
+    - url: https://github.com/katyhuff
+      icon: github-alt
+      name: Github
+    - url: http://scholar.google.com/citations?user=rD2qRk8AAAAJ
+      icon: graduation-cap
+      name: Google Scholar
+    - url: https://twitter.com/katyhuff
+      icon: twitter
+      name: Twitter
+
+- name: Mehmet Turkmen
+  pic: /img/people/turkmenm.jpg
+  dates: 2019-present
+  role: Post-doctoral Researcher
+  src: http://arfc.npre.illinois.edu/people/
+  url: http://arfc.npre.illinois.edu/people/
+  description: 'Mehmet is doing researches on numerical simulations, Monte Carlo method, optimization, advanced nuclear reactor designs, in-core fuel management and uncertainty quantification in nuclear engineering.'
+  social:
+    - url: mailto:mturkmen@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/mehmeturkmen
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/mehmet-türkmen-324a0838/
+      icon: Linkedin
+      name: Linkedin
+
+- name: Sun Myung Park
+  pic: /img/people/smpark.jpg
+  dates: 2017-present
+  role: Graduate Research Assistant
+  description: 'Sun Myung Park is a PhD student embarking on his nuclear engineering journey.'
+  social:
+      - url: mailto:smpark3@illinois.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/smpark7
+        icon: github-alt
+        name: Github
+
+- name: Gwendolyn Chee
+  pic: /img/people/cheeg.jpg
+  dates: 2017-present
+  role: Graduate Research Assistant
+  description: 'Gwendolyn Chee is a Masters Student interested in fuel cycle simulations.'
+  social:
+    - url: mailto:gchee2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: http://github.com/gwenchee
+      icon: github-alt
+      name: Github
+
+- name: Anshuman Chaube
+  pic: /img/people/chaubea.jpg
+  dates: 2017-present
+  role: Graduate Researcher
+  description: 'Ansh is a graduate student interested in mutiphysics simulations of advanced fission reactors.'
+  social:
+    - url: mailto:achaube2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/achubbz
+      icon: github-alt
+      name: Github
+
+- name: Roberto Fairhurst Agosta
+  pic: /img/people/fairhurstr.jpg
+  dates: 2018-present
+  role: Graduate Research Assistant
+  description: 'Roberto is a Masters Student interested in mutiphysics simulations of advanced fission reactors.'
+  social:
+    - url: mailto:ref3@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: http://github.com/robfairh
+      icon: github-alt
+      name: Github
+
+- name: Zoe Richter
+  pic: /img/people/richterz.png
+  dates: 2018-present
+  role: Graduate Research Assistant
+  description: 'Zoe is an NRC fellow with an interest in advanced reactors, fuel cycles, and nonproliferation.'
+  social:
+    - url: mailto:zrichte2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/ZoeRichter
+      icon: github-alt
+      name: Github
+
+- name: Sam Dotson
+  pic: /img/people/dotsons.png
+  dates: 2019-present
+  role: Graduate Research Assistant
+  src: http://www.samgdotson.com/
+  url: http://www.samgdotson.com/
+  description: 'Sam is currently working on machine learning applications for isotope identification and is interested in everything.'
+  social:
+    - url: mailto:sgd2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/samgdotson
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/sam-dotson
+      icon: linkedin
+      name: Linkedin
+
+- name: Oleksandr Yardas
+  pic: /img/people/yardaso.jpeg
+  dates: 2020-present
+  role: Graduate Research Assistant
+  description: 'Olek is a graduate student interested in passive safety and operations, microreactors, and decentralized power generation. He is still trying to figure out how to integrate these interests into a viable career.'
+  social:
+      - url: mailto:oyardas2@illinois.edu
+        icon: envelope-o
+        name: email
+
+- name: Amanda Bachmann
+  pic: /img/people/bachmanna.png
+  dates: 2020-present
+  role: Graduate Research Assistant
+  description: "Amanda is a PhD student interested in the nuclear fuel cycle and the best ways to implement nonproliferation safeguards."
+  social:
+      - url: mailto:amandab7@illinois.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/abachma2
+        icon: github-alt
+        name: Github
+      - url: https://twitter.com/amanda_bachmann
+        icon: twitter
+        name: Twitter
+
+- name: Luke Seifert
+  pic: /img/people/seifertl.png
+  dates: 2020-present
+  role: Graduate Research Assistant
+  description: "Luke is a PhD student interested in advanced reactor modeling and simulation, particularly Molten Salt Reactors."
+  social:
+      - url: mailto:seifert5@illinois.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/LukeSeifert
+        icon: github-alt
+        name: Github
+
+- name: Kip Kleimenhagen
+  pic: /img/people/kleimenhagenk.jpg
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Kip is an undergraduate student in the NPRE department at UIUC currently working on the Cyclus fuel cycle simulation tool to better characterize the depletion of fuel in MSRs.'
+  social:
+    - url: mailto:kiplk2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/kipk49
+      icon: github-alt
+      name: Github
+
+- name: Gavin Davis
+  pic: /img/people/davisg.jpg
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Gavin is an undergraduate student in the NPRE department at UIUC interested in microreactors and other advanced reactor designs.'
+  social:
+    - url: mailto:gavind2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/Dayvis7
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/gavin-davis-92624b16a/
+      icon: linkedin
+      name: LinkedIn
+
+- name: David Atwater
+  pic: /img/people/atwaterd.PNG
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'David Atwater is a Nuclear Engineering Undergraduate interested in working on computational nuclear engineering.'
+  social:
+    - url: mailto:davida2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/datw0258
+      icon: github-alt
+      name: GitHub
+
+- name: Nathan Ryan
+  pic: /img/people/ryann.png
+  dates: 2020-present
+  role: Undergraduate Research Assistant
+  description: 'Nathan is an undergraduate student in the Physics department at UIUC interested in the simulation of new regimes in nuclear reactors.'
+  social:
+    - url: mailto:nsryan2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/nsryan2
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/nathan-ryan-5a06b8193
+      icon: linkedin
+      name: LinkedIn
+
+- name: Amber Hunter
+  pic: /img/people/huntera.png
+  dates: 2020-present
+  role: Undergraduate Research Assistant
+  description: 'Amber is an Undergraduate in NPRE interested in microreactors and other advanced reactor designs.'
+  social:
+    - url: mailto:amberhh2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/amberhhunter
+      icon: github-alt
+      name: GitHub
+
+- name: Nataly Panczyk
+  pic: /img/people/panczykn.png
+  dates: 2020-present
+  role: Undergraduate Research Assistant
+  description: 'Nataly is an undergraduate in NPRE at UIUC. Her interests in nuclear power stem largely from her concern for the environment and her love of physics, math, and computer science.'
+  social:
+    - url: mailto:panczyk2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/npanczyk
+      icon: github-alt
+      name: GitHub
+    - url: https://twitter.com/panczyk_nataly
+      icon: twitter
+      name: Twitter
+
+
+- name: Anna Balla
+  pic: /img/people/ballaa.png
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Anna is an NPRE undergraduate working on advanced reactor deployment efforts and video production for graduate reactor theory curriculum.'
+  social:
+    - url: mailto:acballa2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://www.linkedin.com/in/anna-balla/
+      icon: linkedin
+      name: LinkedIn
+
+- name: You
+  pic: /img/people/you.png
+  dates: now
+  role: Group Member
+  src: /positions
+  url: /positions
+  description: 'Ideal ARFC group members seek to advance nuclear energy challenges through advanced computing, physics-informed modeling, and sophisticated simulation'
+  social:
+    - url: mailto:katyhuff@gmail.com
+      icon: envelope-o
+      name: Email
+    - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
+      icon: map-marker
+      name: 118 Talbot Lab
+
+
