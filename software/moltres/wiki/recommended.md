@@ -91,8 +91,9 @@ solver based on LU
 factorization. As a direct solver, it is very accurate as long as the user provides the correct
 Jacobian formulations in their kernels. PETSc's default `lu` implementation is serial and thus,
 it does not scale over multiple processors. `lu` requires the `superlu_dist` parallel library to
-be effective over multiple processors. However, even `superlu_dist` scales well up to a few
-hundred processors at most. As such, we recommend using `lu` for smaller problems (<100k DOFs).
+be effective over multiple processors. However, `superlu_dist` does not scale as well as the `asm`
+option in the next section. As such, we recommend only using `superlu_dist` for smaller problems
+(<100k DOFs).
 
 `lu` on a single process:
 ```
@@ -122,6 +123,8 @@ each subdomain.
 
 ##### Preconditioner Recommendations
 
+Here are the recommended preconditioner settings for the following problem sizes:
+
 Small problems (<10k DOFs)
 - Number of MPI processes: 1-4
 - Preconditioner options:
@@ -135,43 +138,19 @@ Medium problems (<100k DOFs)
   - `lu` with `superlu_dist` on multiple processes
   - `asm` on multiple processes
 
-Large problems (>100k DOFs)
+Large problems (>200k DOFs)
 - Number of MPI processes: Up to 1 MPI process per 10k DOFs
 - Preconditioner options:
   - `asm` on multiple processes
 
-General tips:
+#### General tips
 - `lu` is faster than `asm` for small problems.
-- 
-
-#### Types of Problems
-
-Moltres simulations generally fall under the following categories:
-
-- Eigenvalue problems
-  - `Executioner` types
-    - `InversePowerMethod`
-    - `NonlinearEigen`
-
-
-Steady state problems in Moltres are generally eigenvalue problems for the multiplication factor
-of the given reactor configuration.
-
-- Pseudo-transient problems
-  - `Executioner` types
-    - `Steady` + `InversePowerMethod` (MultiApp)
-    - `Transient` + `InversePowerMethod` (MultiApp)
-    - `Transient` + `Transient` (MultiApp)
-
-The pseudo-transient approach is useful for solving eigenvalue problems with thermal-hydraulics
-coupling. These are difficult to converge in a single `NonlinearEigen` solve due to strong
-multiphysics couplings. The thermal-hydraulics are separated in a `Steady` or `Transient` solve
-from the neutronics in a `InversePowerMethod` sub-app solve using MOOSE's `MultiApp` system. This
-approach is also useful for getting the steady-state solution of a given reactor configuration
-
-- Transient problems
-  - `Executioner` types
-    - `Transient` 
-    - `Transient` + `Transient` (Picard iterations)
-
-Transient problems 
+- `l_tol = 1e-5` is the default linear tolerance value. `l_tol` can be raised to 1e-4 or 1e-3 for
+large problems without much impact on performance if the problem requires too many linear
+iterations (>400) on every nonlinear iteration.
+- Automatic scaling may not scale correctly on the first timestep when restarting a Moltres
+simulation using MOOSE's `Restart` functionality. Thus, the simulation may fail to converge on the
+first timestep.
+- When using `asm`, the number of linear iterations required per nonlinear iteration scales
+linearly with the number of subdomains (i.e. no. of MPI processes). As such, increasing the number
+of processors beyond a certain threshold increases the solve time.
