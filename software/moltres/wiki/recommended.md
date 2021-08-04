@@ -16,7 +16,7 @@ basic information on preconditioning in MOOSE. You may also refer to the example
 [here](http://arfc.github.io/software/moltres/wiki/input_example/) for an introduction
 to the Moltres input file format.
 
-#### Solve Type
+## Solve Type
 
 Previous experiences have shown that Moltres simulations usually require the `NEWTON`
 solve type with all off-diagonal Jacobian entries enabled because reactor neutronics
@@ -25,7 +25,7 @@ and delayed neutron precursor concentration variables. Users may use these setti
 setting `solve_type = NEWTON` and `full = true` in the `Executioner` and
 `Preconditioning` blocks, respectively, in the input file.
 
-#### Automatic Scaling
+## Automatic Scaling
 
 Relevant variables in a Moltres simulation include neutron group fluxes, delayed neutron
 precursor concentrations, temperature, and velocity components. These variables differ
@@ -60,7 +60,7 @@ The MOOSE team recommends grouping variables derived from the same physics for s
 - `compute_scaling_once`: Whether Moltres calculates the scaling factors once at the beginning
 of the simulation (`true`) or at the beginning of every timestep (`true`).
 
-#### Time Integration Scheme
+## Time Integration Scheme
 
 We recommend using either `ImplicitEuler` or `BDF2` based on the first and second order backward
 differentiation formula time integration schemes. The `BDF2` scheme is more accurate
@@ -75,7 +75,7 @@ To set the time integration scheme, include the following line in the `Execution
 scheme = bdf2    # or implicit-euler for ImplicitEuler
 ```
 
-#### Preconditioning
+## Preconditioning
 
 Our discussions on preconditioning here relate to the `NEWTON` solve type which relies on PETSc
 routines to solve the system of linear equations in each Newton iteration.
@@ -84,7 +84,7 @@ Users can pick their preferred linear system solver and the associated settings 
 problem through the `petsc_options_iname` and `petsc_options_value` parameters in the
 `Executioner` block.
 
-##### LU
+#### LU
 
 The most reliable "preconditioner" type for Moltres simulations is `lu`. `lu` is actually a direct
 solver based on LU
@@ -97,17 +97,17 @@ option in the next section. As such, we recommend only using `superlu_dist` for 
 
 `lu` on a single process:
 ```
--petsc_options_iname = '-pc_type -pc_factor_shift_type'
--petsc_options_value = 'lu       NONZERO'
+petsc_options_iname = '-pc_type -pc_factor_shift_type'
+petsc_options_value = 'lu       NONZERO'
 ```
 
 `lu` with `superlu_dist` on multiple MPI processes:
 ```
--petsc_options_iname = '-pc_type -pc_factor_shift_type -pc_factor_mat_solver_type'
--petsc_options_value = 'lu       NONZERO               superlu_dist'
+petsc_options_iname = '-pc_type -pc_factor_shift_type -pc_factor_mat_solver_type'
+petsc_options_value = 'lu       NONZERO               superlu_dist'
 ```
 
-##### ASM
+#### ASM
 
 Direct solvers like `lu` do not scale well with problem size. Iterative methods are recommended
 for large problems. The best performing preconditioner type for large problems in Moltres is
@@ -117,11 +117,11 @@ each subdomain.
 
 `asm` on multiple MPI processes:
 ```
--petsc_options_iname = '-pc_type -sub_pc_type -sub_pc_factor_shift_type -pc_asm_overlap -ksp_gmres_restart'
--petsc_options_value = 'asm      lu           NONZERO                   1               200'
+petsc_options_iname = '-pc_type -sub_pc_type -sub_pc_factor_shift_type -pc_asm_overlap -ksp_gmres_restart'
+petsc_options_value = 'asm      lu           NONZERO                   1               200'
 ```
 
-##### Preconditioner Recommendations
+#### Preconditioner Recommendations
 
 Here are the recommended preconditioner settings for the following problem sizes:
 
@@ -138,12 +138,12 @@ Medium problems (<100k DOFs)
   - `lu` with `superlu_dist` on multiple processes
   - `asm` on multiple processes
 
-Large problems (>200k DOFs)
+Large problems (>100k DOFs)
 - Number of MPI processes: Up to 1 MPI process per 10k DOFs
 - Preconditioner options:
   - `asm` on multiple processes
 
-#### General tips
+## General tips
 - `lu` is faster than `asm` for small problems.
 - `l_tol = 1e-5` is the default linear tolerance value. `l_tol` can be raised to 1e-4 or 1e-3 for
 large problems without much impact on performance if the problem requires too many linear
