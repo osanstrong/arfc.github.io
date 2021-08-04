@@ -25,4 +25,4 @@ should help the user prepare his/her own customized input:
 The following page provides a general guide for `Executioner` and
 `Preconditioning` settings:
 
-- [Recommended Executioner and Preconditioner Settings](./recommended/)
+- [Recommended Executioner and Preconditioner Settings](./recommended_settings/)
