@@ -150,3 +150,47 @@ Navigate to
  /projects/sciteam/bbcc/projects/
 ```
  and read the readme file located there. It provides useful information to properly setup a pbs script and run Moltres.
+
+
+## Using Serpent
+To use Serpent, one can use the command
+```
+ qsub serpent_pbs_script.pbs
+```
+
+ where an example of a pbs script for using Serpent can be seen below.
+
+```
+ #!/bin/bash
+ #PBS -l nodes=4:ppn=32:xe
+ #PBS -l walltime=08:00:00
+ #PBS -N name_of_Serpent_run
+ #PBS -j oe
+ #PBS -q normal
+
+ module swap PrgEnv-cray PrgEnv-gnu
+
+ export OMP_NUM_THREADS=32
+
+ cd $PBS_O_WORKDIR
+ aprun -n 4 -d 32 /projects/sciteam/bbcc/serpent/src2.1.32/sss2 -omp 32 ./serpent_file > output_file
+```
+
+Step 6 contains a link for more information on pbs scripts. The "module swap" is required in order to run Serpent since it uses the gnu compiler. The "export" line is used to set the thread count which has a default value of 1.
+
+#### Tip) Cross Sections
+When making your Serpent input deck, you can use the following for your cross section data
+```
+set acelib "/projects/sciteam/bbcc/serpent/xsdata/jeff312/sss_jeff312.xsdata"
+set declib "/projects/sciteam/bbcc/serpent/xsdata/jeff312/sss_jeff33.dec"
+set nfylib "/projects/sciteam/bbcc/serpent/xsdata/jeff312/sss_jeff33.nfy"
+```
+
+#### Tip) Viewing Progress
+
+While you wait for your script to complete, you can run the command
+```
+ qstat | grep "name_of_Serpent_run"
+```
+
+ which will display how long your script has been running. Once your script is done running, it should return nothing (unless someone else is running a script with the same name as yours).
