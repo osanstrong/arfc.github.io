@@ -404,3 +404,89 @@
     - url: https://github.com/mkozak7
       icon: github-alt
       name: Github
+
+- name: Kip Kleimenhagen
+  pic: /img/people/kleimenhagenk.jpg
+  dates: 2019-2021
+  role: Undergraduate Research Assistant
+  description: 'Kip was an undergraduate student in the NPRE department at UIUC, he's currently pursuing his master’s degree in nuclear engineering.'
+  social:
+    - url: mailto:kiplk2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/kipk49
+      icon: github-alt
+      name: Github
+
+- name: Gavin Davis
+  pic: /img/people/davisg.jpg
+  dates: 2019-2021
+  role: Undergraduate Research Assistant
+  description: 'Gavin was an undergraduate student in the NPRE department at UIUC interested in microreactors and other advanced reactor designs.'
+  social:
+    - url: mailto:gavind2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/Dayvis7
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/gavin-davis-92624b16a/
+      icon: linkedin
+      name: LinkedIn
+
+- name: David Atwater
+  pic: /img/people/atwaterd.PNG
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'David Atwater was a Nuclear Engineering Undergraduate interested in working on computational nuclear engineering.'
+  social:
+    - url: mailto:davida2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/datw0258
+      icon: github-alt
+      name: GitHub
+
+- name: Amber Hunter
+  pic: /img/people/huntera.png
+  dates: 2020-2021
+  role: Undergraduate Research Assistant
+  description: 'Amber was an Undergraduate in NPRE interested in microreactors and other advanced reactor designs.'
+  social:
+    - url: mailto:amberhh2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/amberhhunter
+      icon: github-alt
+      name: GitHub
+
+- name: Anna Balla
+  pic: /img/people/ballaa.png
+  dates: 2019-2021
+  role: Undergraduate Research Assistant
+  description: 'Anna was an NPRE undergraduate working on advanced reactor deployment efforts and video production for graduate reactor theory curriculum.'
+  social:
+    - url: mailto:acballa2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://www.linkedin.com/in/anna-balla/
+      icon: linkedin
+      name: LinkedIn
+
+- name: Mehmet Turkmen
+  pic: /img/people/turkmenm.jpg
+  dates: 2019-2021
+  role: Post-doctoral Researcher
+  src: http://arfc.npre.illinois.edu/people/
+  url: http://arfc.npre.illinois.edu/people/
+  description: 'Mehmet is doing researches on numerical simulations, Monte Carlo method, optimization, advanced nuclear reactor designs, in-core fuel management and uncertainty quantification in nuclear engineering.'
+  social:
+    - url: mailto:mturkmen@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/mehmeturkmen
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/mehmet-türkmen-324a0838/
+      icon: Linkedin
+      name: Linkedin
