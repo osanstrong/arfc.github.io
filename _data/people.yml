@@ -5,7 +5,7 @@
   role: Assistant Professor
   src: http://kdhuff.web.engr.illinois.edu
   url: http://kdhuff.web.engr.illinois.edu
-  description: 'Katy is the director of the Advanced Reactors and Fuel Cycles group at Illinois.'
+  description: 'Katy is the director of the Advanced Reactors and Fuel Cycles group at Illinois and is currently on a leave of absence to serve in the Department of Energy.'
   social:
     - url: http://katyhuff.youcanbook.me
       icon: calendar
@@ -17,6 +17,25 @@
       icon: graduation-cap
       name: Google Scholar
     - url: https://twitter.com/katyhuff
+      icon: twitter
+      name: Twitter
+
+- name: Madicken Munk
+  pic: /img/people/munkm.jpg
+  dates: 2021-present
+  status: PI
+  role: Research Scientist
+  src: https://munkm.github.io
+  url: https://munkm.github.io
+  description: 'Madicken is acting the director of the Advanced Reactors and Fuel Cycles group at Illinois.'
+  social:
+    - url: https://github.com/munkm
+      icon: github-alt
+      name: Github
+    - url: https://scholar.google.com/citations?user=V1Cqd5cAAAAJ
+      icon: graduation-cap
+      name: Google Scholar
+    - url: https://twitter.com/munkium
       icon: twitter
       name: Twitter
 
