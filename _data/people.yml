@@ -174,6 +174,19 @@
       icon: twitter
       name: Twitter
 
+- name: Yi Nok Yeung (Nicholas)
+  pic: /img/people/yeungn.jpg
+  dates: 2021-present
+  role: Undergraduate Research Assistant
+  description: 'Nicholas is an undergraduate student currrently majoring in philosophy at UIUC. He is interested in learning more about simulation of reactor designs.'
+  social:
+    - url: mailto:yinokny2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/hwacc-y
+      icon: github-alt
+      name: GitHub
+
 - name: You
   pic: /img/people/you.png
   dates: now
@@ -188,5 +201,3 @@
     - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
       icon: map-marker
       name: 118 Talbot Lab
-
-
