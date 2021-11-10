@@ -131,6 +131,10 @@
       - url: mailto:oyardas2@illinois.edu
         icon: envelope-o
         name: email
+      - url: https://github.com/yardasol
+        icon: github-alt
+        name: Github
+
 
 - name: Amanda Bachmann
   pic: /img/people/bachmanna.png
