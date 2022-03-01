@@ -65,7 +65,6 @@ the core Moltres physics capabilities.
 
 ## Contact
 
-Please post to our discussion list at moltres-users@googlegroups.com for more
-information.
+Please post to our discussion list at moltres-users@googlegroups.com.
 
 ![](phoenix_CC0.jpg)
