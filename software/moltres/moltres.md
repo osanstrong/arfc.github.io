@@ -63,6 +63,9 @@ should be submitted to the `devel` branch of the `arfc/moltres` repository. Each
 pull request is automatically tested for style and for whether it breaks any of
 the core Moltres physics capabilities.
 
+A full list of contributing guidelines can be found
+[here](https://github.com/arfc/moltres/blob/devel/CONTRIBUTING.md).
+
 ## Contact
 
 Please post to our discussion list at moltres-users@googlegroups.com.
