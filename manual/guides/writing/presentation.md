@@ -59,3 +59,7 @@ startup. Keep in mind that this template has a
 the standard for written works and reports; however, there are cases where the use of material 
 containing viral or copyleft licenses (such as GPL) can affect the type of license you can 
 use in your report.
+
+### Useful Links
+- [Overlay Specifications](https://www.overleaf.com/learn/latex/Beamer_Presentations%3A_A_Tutorial_for_Beginners_(Part_4)%E2%80%94Overlay_Specifications)
+- [Hyperlinks and Buttons](https://www.overleaf.com/learn/latex/Beamer_Presentations%3A_A_Tutorial_for_Beginners_(Part_3)%E2%80%94Blocks%2C_Code%2C_Hyperlinks_and_Buttons) 
