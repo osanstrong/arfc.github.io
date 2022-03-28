@@ -31,7 +31,6 @@ elsewhere.
 ## Writing the Presentation
 
 - All grammatical and technical errors must be eliminated per the writing checklist
-- When the document has been thoroughly checked, request a review of the document by Prof. Huff
 - Do not use bullets unless you are presenting an acual list
 - Stick to simple backgrounds, one to two fonts, and use color as a secondary delimiter not a primary one
 - Use a sans serif font for all text
@@ -42,6 +41,7 @@ elsewhere.
 ## Presentation Review
 
 - Make sure you allot adequate time for run-throughs (plural!), and revisions from the group
+- When the document has been thoroughly checked, request a review from Prof. Huff and the group
 
 
 ## Using the Presentation Template
