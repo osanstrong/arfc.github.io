@@ -7,14 +7,10 @@ permalink: /manual/guides/writing/presentation
 
 ## What is a Presentation
 
-A report, also known as a technical report, is typically issued by a research 
-institution which evaluates and affirms the work. This evaluation is an 
-internal process and accordingly, reports are not 'peer reviewed' literature.
-
-Technical reports are usually produced to report on a specific research need. 
-They can serve as a report of accountability to the organization funding the 
-research. They provides access to the information before it is published 
-elsewhere.
+A presentation, also known as an oral presentation, is typically prepared to 
+summarize or disseminate work for a number of reasons. They can serve as a 
+an accountability checkpoint for an organization funding research, or as a means
+to share discovery with a variety of technical and non-technical audiences.
 
 
 ## Rules of the Presentation
