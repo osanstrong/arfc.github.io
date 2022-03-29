@@ -165,6 +165,19 @@
         icon: github-alt
         name: Github
 
+- name: Lu Kissinger
+  pic: /img/people/kissingerl.jpg
+  dates: 2017-present
+  role: Graduate Research Assistant
+  description: "Lu  is a Masters student using Monte Carlo codes to investigate the feasibility of Lunar Surface Fission Power. They also worked on reactor modeling projects with ARFC as an undergraduate and at Argonne post-bachelor's"
+  social:
+      - url: mailto:lkissin2@illinois.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/lkissin2
+        icon: github-alt
+        name: Github
+
 - name: Nathan Ryan
   pic: /img/people/ryann.png
   dates: 2020-present
