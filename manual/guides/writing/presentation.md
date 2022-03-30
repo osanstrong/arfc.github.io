@@ -7,7 +7,7 @@ permalink: /manual/guides/writing/presentation
 
 ## What is a Presentation
 
-A presentation, also known as an oral presentation, is typically prepared to 
+An oral presentation is typically prepared to 
 summarize or disseminate work for a number of reasons. They can serve as a 
 an accountability checkpoint for an organization funding research, or as a means
 to share discovery with a variety of technical and non-technical audiences.
