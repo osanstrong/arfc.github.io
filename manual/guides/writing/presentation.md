@@ -8,7 +8,7 @@ permalink: /manual/guides/writing/presentation
 ## What is a Presentation
 
 An oral presentation is typically prepared to 
-summarize or disseminate work for a number of reasons. They can serve as a 
+summarize or disseminate work. They can serve as a 
 an accountability checkpoint for an organization funding research, or as a means
 to share discovery with a variety of technical and non-technical audiences.
 
@@ -21,13 +21,13 @@ to share discovery with a variety of technical and non-technical audiences.
 - Try to spend around two minutes per slide
 - Present the body of your talk with slides titled as summaries or guiding questions
 - People will remember your figures, not your bullets (a generalization, but well founded)
-- Never put something on a slide you do not throughouly, consistently, understand
+- Never put something on a slide you do not thoroughly and consistently, understand
 
 
 ## Writing the Presentation
 
 - All grammatical and technical errors must be eliminated per the writing checklist
-- Do not use bullets unless you are presenting an acual list
+- Do not leave a bulleted list hanging (i.e. without a title or lead-in sentence)
 - Stick to simple backgrounds, one to two fonts, and use color as a secondary delimiter not a primary one
 - Use a sans serif font for all text
 - Use equations as a last resort (or sparingly if you are presenting a method), a plot/figure is much better at telling the whole story qualitatively
