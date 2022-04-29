@@ -227,7 +227,8 @@
   pic: /img/people/pacioccog.png
   dates: 2021-present
   role: Undergraduate Research Assistant 
-  description: 'Gabriele is an NPRE undergraduate at UIUC. His interests in Math and Science motivate him to study the future of nuclear reactor devlopement. 
+  description: 'Gabriele is an NPRE undergraduate at UIUC. His interests in Math and Science motivate him to study the future of nuclear reactor devlopement.'
+  social:
     - url: mailto:Agp9@illinois.edu
       icon: envelope-o
       name: Email
