@@ -131,6 +131,10 @@
       - url: mailto:oyardas2@illinois.edu
         icon: envelope-o
         name: email
+      - url: https://github.com/yardasol
+        icon: github-alt
+        name: Github
+
 
 - name: Amanda Bachmann
   pic: /img/people/bachmanna.png
@@ -158,6 +162,19 @@
         icon: envelope-o
         name: email
       - url: https://github.com/LukeSeifert
+        icon: github-alt
+        name: Github
+
+- name: Lu Kissinger
+  pic: /img/people/kissingerl.jpg
+  dates: 2017-present
+  role: Graduate Research Assistant
+  description: "Lu  is a Masters student using Monte Carlo codes to investigate the feasibility of Lunar Surface Fission Power. They also worked on reactor modeling projects with ARFC as an undergraduate and at Argonne post-bachelor's"
+  social:
+      - url: mailto:lkissin2@illinois.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/lkissin2
         icon: github-alt
         name: Github
 
@@ -205,6 +222,19 @@
     - url: https://github.com/hwacc-y
       icon: github-alt
       name: GitHub
+
+- name: Gabriele Paciocco
+  pic: /img/people/pacioccog.png
+  dates: 2021-present
+  role: Undergraduate Research Assistant 
+  description: 'Gabriele is an NPRE undergraduate at UIUC. His interests in Math and Science motivate him to study the future of nuclear reactor devlopement.'
+  social:
+    - url: mailto:Agp9@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://www.linkedin.com/in/gabriele-paciocco-b311b41a1/
+      icon: linkedin
+      name: Linkedin
 
 - name: You
   pic: /img/people/you.png
