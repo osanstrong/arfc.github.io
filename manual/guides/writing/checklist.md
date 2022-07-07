@@ -87,6 +87,7 @@ Enhancing Grammar:
 - The Oxford comma must appear in lists ("lions, tigers, and bears").
 - Do not use the word "where" unless referring to a location (try "such that" or "in which").
 - Avoid run-on sentences.
+- The preposition "of" shows belonging, relations, or references. The preposition "for" shows purpose, destination, amount, or recipients. They are not interchangeable.
 ```
 
 Additional Math Comments:
