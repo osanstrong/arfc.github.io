@@ -62,13 +62,13 @@ This [writing checklist](/manual/guides/writing/checklist) is mostly from advice
 
 Using Latin:
 ```markdown
-- [ ] The Latin abbreviations viz., i.e., and e.g. should all have commas before and after them (e.g., "a large star, e.g., Stephenson 2-18 would not make sense").
-- [ ] The Latin abbreviations cf., et al., or q.v. should not have commas after them.
-- [ ] "vs." is used to contrast things.
-- [ ] You should never say and etc., because "et" already means "and" in Latin.
-- [ ] Abbreviations including et (e.g., "et al.") should not have a period after "et" because it is a whole word.
-- [ ] Some abbreviations, but not the majority, need to be capitalized (e.g., "N.B." which means "note well").
-- [ ]  Latin (or any Non-English) words, other than et, are usually italicized (e.g., *in situ, in vivo, in vitro,* and *ab initio*).
+- The Latin abbreviations viz., i.e., and e.g. should all have commas before and after them (e.g., "a large star, e.g., Stephenson 2-18 would not make sense").
+- The Latin abbreviations cf., et al., or q.v. should not have commas after them.
+- "vs." is used to contrast things.
+- You should never say and etc., because "et" already means "and" in Latin.
+- Abbreviations including et (e.g., "et al.") should not have a period after "et" because it is a whole word.
+- Some abbreviations, but not the majority, need to be capitalized (e.g., "N.B." which means "note well").
+- Latin (or any Non-English) words, other than et, are usually italicized (e.g., *in situ, in vivo, in vitro,* and *ab initio*).
 ```
 
 Additional Table and Figure Checklist:
