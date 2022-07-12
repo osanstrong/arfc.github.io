@@ -96,7 +96,6 @@ remember some people reading it won't know as much jargon as you do.
 ```
 
 ## Tables and Figures
-
 ```markdown
 - [ ] The text should refer to all tables and figures.
 - [ ] When referring to figures by their number, use `Figure 1` and `Table 1.` They should be capitalized and not abbreviated (not `fig. 1` or `figure 1`.)
