@@ -73,20 +73,28 @@ remember some people reading it won't know as much jargon as you do.
 ```markdown
 - [ ] "Data" is plural (the data are critical).
 - [ ] Compare to (point out similarities between different things) vs.  compared with (point out differences between similar things)
-- [ ] Commas and periods go inside end quotes, except for when there's a parenthetical reference afterwards.
-- [ ] Colons and semicolons go outside closed quotations.
-- [ ] Semicolon: connects two independent clauses. OR separates items when the list contain internal punctuation.
-- [ ] Use a colon to introduce a list, quote, explanation, conclusion, or amplification.
 - [ ] Elemental symbols (Ni, Li, Na, Pu) are capitalized, but their names are not (nickel, lithium, sodium, plutonium).
-- [ ] The Oxford comma must appear in lists ("lions, tigers, and bears").
 - [ ] Do not use the word "where" unless referring to a location (try "such that" or "in which").
 - [ ] Avoid run-on sentences.
 - [ ] The preposition "of" shows belonging, relations, or references. The preposition "for" shows purpose, destination, amount, or recipients. They are not interchangeable.
 ```
 
+## Enhancing Punctuation
+
+```markdown
+- [ ] Commas and periods go inside end quotes, except for when there's a parenthetical reference afterwards.
+- [ ] Colons and semicolons go outside closed quotations.
+- [ ] Semicolon: connects two independent clauses. OR separates items when the list contain internal punctuation.
+- [ ] Use a colon to introduce a list, quote, explanation, conclusion, or amplification.
+- [ ] The Oxford comma must appear in lists ("lions, tigers, and bears").
+- [ ] Use hyphens to join words acting as a single adjective before a noun (e.g., "well-known prankster"), not after a noun (e.g., "the prankster is well known").
+- [ ] Two words joined by a hyphen in title-case should both be capitalized.
+- [ ] Hyphens join a prefix to a capitalized word, figure, or letter (e.g., pre-COVID, T-cell receptor, post-1800s); compound numbers (e.g., sixty-six); words to the prefixes ex, self, and all (e.g., "ex-sitter", "self-made", "all-knowing"); and words to the suffix elect (e.g., "president-elect").
+```
+
 ## Using Latin
 ```markdown
-- [ ] The Latin abbreviations viz., i.e., and e.g. should all have commas before and after them (e.g., "a large star, e.g., Stephenson 2-18 would not make sense").
+- [ ] The Latin abbreviations viz., i.e., and e.g. should all have commas before and after them (e.g., "We can classify a large star as a red giant, e.g., Stephenson 2-18.").
 - [ ] The Latin abbreviations cf., et al., or q.v. should not have commas after them.
 - [ ] The abbreviation of *versus* (vs.) should always have a period in American English and is used to contrast things.
 - [ ] You should never say "and etc.," because "et" already means "and" in Latin.
