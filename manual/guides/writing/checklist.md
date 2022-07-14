@@ -89,12 +89,12 @@ remember some people reading it won't know as much jargon as you do.
 - [ ] The Oxford comma must appear in lists ("lions, tigers, and bears").
 - [ ] Use hyphens to join words acting as a single adjective before a noun (e.g., "well-known prankster"), not after a noun (e.g., "the prankster is well known").
 - [ ] Two words joined by a hyphen in title-case should both be capitalized.
-- [ ] Hyphens join a prefix and a capitalized word, figures, or letters; compound numbers; words to the prefixes ex, self, and all; and words to the suffix elect.
+- [ ] Hyphens join a prefix to a capitalized word, figure, or letter (e.g., pre-COVID, T-cell receptor, post-1800s); compound numbers (e.g., sixty-six); words to the prefixes ex, self, and all (e.g., "ex-sitter", "self-made", "all-knowing"); and words to the suffix elect (e.g., "president-elect").
 ```
 
 ## Using Latin
 ```markdown
-- [ ] The Latin abbreviations viz., i.e., and e.g. should all have commas before and after them (e.g., "a large star, e.g., Stephenson 2-18, would not make sense").
+- [ ] The Latin abbreviations viz., i.e., and e.g. should all have commas before and after them (e.g., "We can classify a large star as a red giant, e.g., Stephenson 2-18.").
 - [ ] The Latin abbreviations cf., et al., or q.v. should not have commas after them.
 - [ ] The abbreviation of *versus* (vs.) should always have a period in American English and is used to contrast things.
 - [ ] You should never say "and etc.," because "et" already means "and" in Latin.
