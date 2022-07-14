@@ -87,7 +87,7 @@ remember some people reading it won't know as much jargon as you do.
 - [ ] Semicolon: connects two independent clauses. OR separates items when the list contain internal punctuation.
 - [ ] Use a colon to introduce a list, quote, explanation, conclusion, or amplification.
 - [ ] The Oxford comma must appear in lists ("lions, tigers, and bears").
-- [ ] Use hyphens to join words acting as a single adjective before a noun (e.g., "well-known prankster"), not after a nount (e.g., "the prankster is well known").
+- [ ] Use hyphens to join words acting as a single adjective before a noun (e.g., "well-known prankster"), not after a noun (e.g., "the prankster is well known").
 - [ ] Two words joined by a hyphen in title-case should both be capitalized.
 - [ ] Hyphens join a prefix and a capitalized word, figures, or letters; compound numbers; words to the prefixes ex, self, and all; and words to the suffix elect.
 ```
