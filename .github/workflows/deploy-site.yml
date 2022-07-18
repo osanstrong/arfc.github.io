@@ -3,8 +3,8 @@ name: Deploy arfc.github.io to GitHub Pages
 
 on:
   push:
-    branches:
-      - 'source'
+  #  branches:
+  #    - 'source'
   # enable workflow to be run manually
   workflow_dispatch:
 
