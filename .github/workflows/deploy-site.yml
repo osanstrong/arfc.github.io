@@ -1,0 +1,29 @@
+# Preamble
+name: Deploy arfc.github.io to GitHub Pages
+
+on:
+  push:
+    branches:
+      - 'source'
+  # enable workflow to be run manually
+  workflow_dispatch:
+
+jobs:
+  deploy-site:
+    runs-on: ubuntu-latest
+  
+  steps:
+    - uses: actions/checkout@v3
+
+    - uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+              ${{ runner.os }}-gems-
+
+    - name: Deploy the website
+      uses: gelaili/jekyll-action@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        target_branch: 'master'
