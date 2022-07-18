@@ -23,7 +23,7 @@ jobs:
                 ${{ runner.os }}-gems-
 
       - name: Deploy the website
-        uses: helaili/jekyll-action@v2
+        uses: jefferytse/jekyll-deploy-action@v0.4.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: 'gh-pages'
+          branch: 'gh-pages'
