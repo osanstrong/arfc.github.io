@@ -180,9 +180,11 @@
 
 - name: Nathan Ryan
   pic: /img/people/ryann.png
-  dates: 2020-present
-  role: Undergraduate Research Assistant
-  description: 'Nathan is an undergraduate student in the Physics department at UIUC interested in the simulation of new regimes in nuclear reactors.'
+  dates: 2022-present
+  role: Graduate Research Assistant
+  src: https://nsryan2.github.io/
+  url: http://nsryan2.github.io/
+  description: 'Nathan is a graduate student interested in the simulation of new regimes in nuclear reactors, energy system modeling, and machine learning.'
   social:
     - url: mailto:nsryan2@illinois.edu
       icon: envelope-o
@@ -244,7 +246,7 @@
   url: /positions
   description: 'Ideal ARFC group members seek to advance nuclear energy challenges through advanced computing, physics-informed modeling, and sophisticated simulation'
   social:
-    - url: mailto:katyhuff@gmail.com
+    - url: mailto:Madicken.munk@gmail.com
       icon: envelope-o
       name: Email
     - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
