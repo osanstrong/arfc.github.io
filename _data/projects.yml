@@ -6,7 +6,7 @@
   src: https://github.com/arfc/moltres
   url: https://arfc.github.io/software/moltres
   description: 'A Moltres is a MOOSE-application code designed for simulation of molten salt reactors.'
-  
+
 - name: cyclus
   pic: research/cyclus.gif
   network: github
@@ -15,13 +15,13 @@
   src: https://github.com/cyclus/cyclus
   url: https://fuelcycle.org
   description: 'A C++ nuclear fuel cycle simulation framework'
-  
+
 - name: cyder
   pic: research/cyder.png
   network: github
   dates: 2011-2013
   role: Huff, original creator and continued contributor.
-  src: https://github.com/arfc/cyder
+  src: https://github.com/arfc/cyder#readme
   url: https://arfc.github.io/cyder
   description: 'Cyder is an integrated used fuel disposition and generic repository model for fuel cycle analysis. (C++) This was Prof. Huffs ph.d. dissertation work.'
 
