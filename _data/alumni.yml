@@ -422,7 +422,7 @@
 
 - name: David Atwater
   pic: /img/people/atwaterd.PNG
-  dates: 2019-present
+  dates: 2019-2021
   role: Undergraduate Research Assistant
   description: 'David Atwater was a Nuclear Engineering Undergraduate interested in working on computational nuclear engineering.'
   social:
@@ -476,3 +476,18 @@
     - url: https://www.linkedin.com/in/mehmet-türkmen-324a0838/
       icon: Linkedin
       name: Linkedin
+
+- name: Gwendolyn Chee
+  pic: /img/people/cheeg.jpg
+  dates: 2017-2022
+  role: Graduate Research Assistant
+  description: 'Gwendolyn Chee recieved her MS in Nuclear Engineering in 2018, and graduated from NPRE with her PhD in 2022.'
+  social:
+    - url: mailto:gchee2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: http://github.com/gwenchee
+      icon: github-alt
+      name: Github
+
+
