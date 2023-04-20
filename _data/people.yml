@@ -52,32 +52,6 @@
         icon: github-alt
         name: Github
 
-- name: Anshuman Chaube
-  pic: /img/people/chaubea.jpg
-  dates: 2017-present
-  role: Graduate Researcher
-  description: 'Ansh is a graduate student interested in mutiphysics simulations of advanced fission reactors.'
-  social:
-    - url: mailto:achaube2@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/achubbz
-      icon: github-alt
-      name: Github
-
-- name: Roberto Fairhurst Agosta
-  pic: /img/people/fairhurstr.jpg
-  dates: 2018-present
-  role: Graduate Research Assistant
-  description: 'Roberto is a Masters Student interested in mutiphysics simulations of advanced fission reactors.'
-  social:
-    - url: mailto:ref3@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: http://github.com/robfairh
-      icon: github-alt
-      name: Github
-
 - name: Zoe Richter
   pic: /img/people/richterz.png
   dates: 2018-present
@@ -91,13 +65,13 @@
       icon: github-alt
       name: Github
 
-- name: Sam Dotson
-  pic: /img/people/dotsons.png
+- name: Samuel Dotson
+  pic: /img/people/dotsons.jpg
   dates: 2019-present
   role: Graduate Research Assistant
-  src: http://www.samgdotson.com/
-  url: http://www.samgdotson.com/
-  description: 'Sam is currently working on machine learning applications for isotope identification and is interested in everything.'
+  src: https://www.linkedin.com/in/sam-dotson/
+  url: https://www.linkedin.com/in/sam-dotson/
+  description: 'Sam works on grid-scale energy system modeling and optimization methods with a focus on nuclear energy and its implications for energy justice.'
   social:
     - url: mailto:sgd2@illinois.edu
       icon: envelope-o
@@ -105,6 +79,9 @@
     - url: https://github.com/samgdotson
       icon: github-alt
       name: Github
+    - url: https://twitter.com/samgdotson
+      icon: twitter
+      name: Twitter
     - url: https://www.linkedin.com/in/sam-dotson
       icon: linkedin
       name: Linkedin
@@ -149,19 +126,6 @@
         icon: envelope-o
         name: email
       - url: https://github.com/LukeSeifert
-        icon: github-alt
-        name: Github
-
-- name: Lu Kissinger
-  pic: /img/people/kissingerl.jpg
-  dates: 2017-present
-  role: Graduate Research Assistant
-  description: "Lu  is a Masters student using Monte Carlo codes to investigate the feasibility of Lunar Surface Fission Power. They also worked on reactor modeling projects with ARFC as an undergraduate and at Argonne post-bachelor's"
-  social:
-      - url: mailto:lkissin2@illinois.edu
-        icon: envelope-o
-        name: email
-      - url: https://github.com/lkissin2
         icon: github-alt
         name: Github
 
