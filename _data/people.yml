@@ -176,6 +176,19 @@
       icon: github-alt
       name: GitHub
 
+- name: Ceser Zambrano
+  pic: /img/people/zambranoc.png
+  dates: 2023-present
+  role: Undergraduate Research Assistant
+  description: 'Ceser is an undergraduate in NPRE at UIUC. He is interested in the usage of simulations for reactor cores. '
+  social":
+    - url: mailto:ceserz2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/ceserz2
+      icon: github-alt
+      name: Github
+
 - name: You
   pic: /img/people/you.png
   dates: now
