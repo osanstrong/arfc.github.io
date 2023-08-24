@@ -16,7 +16,7 @@
     - subtitle: "cyclus"
       suburl: "https://fuelcycle.org"
     - subtitle: "cyder"
-      suburl: "https://arfc.github.io/cyder"
+      suburl: "https://github.com/arfc/cyder#readme"
     - subtitle: "moltres"
       suburl: "/software/moltres"
     - subtitle: "pyne"
