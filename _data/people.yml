@@ -132,9 +132,9 @@
   pic: /img/people/ryann.png
   dates: 2022-present
   role: Graduate Research Assistant
-  src: https://nsryan2.github.io/
-  url: http://nsryan2.github.io/
-  description: 'Nathan is a graduate student interested in the simulation of new regimes in nuclear reactors, energy system modeling, and machine learning.'
+  src: https://nsryan.github.io/
+  url: http://nsryan.github.io/
+  description: 'Nathan is a graduate student interested in the nuclear fuel cycle, energy system modeling, and machine learning.'
   social:
     - url: mailto:nsryan2@illinois.edu
       icon: envelope-o
