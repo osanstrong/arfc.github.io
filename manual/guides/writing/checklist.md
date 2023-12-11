@@ -16,9 +16,9 @@ Use these lists to check off your progress in writing and reviewing.
 
 ```markdown
 - [ ] Run a spell checker.
-- [ ] Get rid of unnecessary prepositional phrases -- author clearing throat (e.g., It can be shown that...).
+- [ ] Get rid of unnecessary prepositional phrases -- author clearing throat (e.g., "It can be shown that...").
 - [ ] Get rid of extraneous adverbs (very, really, quite, basically, generally).
-- [ ] Get rid of there are / there is.
+- [ ] Get rid of there are/there is.
 - [ ] Get rid of extraneous prepositions ("the meeting happened on Monday" -> "the meeting happened Monday") ("they agreed that it was true" -> "they agreed it was true").
 - [ ] Get rid of passive voice (is/was/are/were/be/been/am + past tense verb), replace with active voice.
 - [ ] Cite all images, methods, software, and empirical data. Review [the principles](https://www.force11.org/software-citation-principles) and try [CiteAs](https://citeas.org/about) if necessary.
