@@ -66,9 +66,6 @@
   role: Graduate Research Assistant
   description: "Amanda is a PhD student interested in the nuclear fuel cycle and the best ways to implement nonproliferation safeguards."
   social:
-      - url: mailto:amandab7@illinois.edu
-        icon: envelope-o
-        name: email
       - url: https://github.com/abachma2
         icon: github-alt
         name: Github
