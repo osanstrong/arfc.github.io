@@ -60,6 +60,19 @@
       icon: github-alt
       name: Github
 
+- name: Amanda Bachmann
+  pic: /img/people/bachmanna.png
+  dates: 2020-2023
+  role: Graduate Research Assistant
+  description: "Amanda was a PhD student working on fuel cycle modeling. She received her PhD in 2023, and is now a postdoc at Argonne National Laboratory."
+  social:
+      - url: https://github.com/abachma2
+        icon: github-alt
+        name: Github
+      - url: https://twitter.com/amanda_bachmann
+        icon: twitter
+        name: Twitter
+
 - name: Lu Kissinger
   pic: /img/people/kissingerl.jpg
   dates: 2017-2022
