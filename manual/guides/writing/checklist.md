@@ -32,16 +32,16 @@ As Shakespeare wrote in *Hamlet*, "Brevity is the soul of wit."
 - [ ] Be concise and direct.
 - [ ] Using "very" suggests that a better word exists; replace it where possible.
 - [ ] Make sure that articles such as "a," "the," "some," "any," and "each" appear where necessary.
-- [ ] Ensure all subjects must match the plurality of their verbs (no: "Apples is tasty" yes: "Apples are tasty").
+- [ ] Ensure all subjects must match the plurality of their verbs (saying "Apples is tasty" is wrong, but "Apples are tasty" is correct).
 - [ ] Recover verbs that were turned into nouns ("obtain estimates of" -> "estimates"; "provides a description of" -> "describes").
-- [ ] Use the form <verb>ion of <noun> over <noun> <verb>ion (for example, convert "calculation of velocity" to "velocity calculation").
+- [ ] Use the form <noun> <verb>ion over <verb>ion of <noun> (for example, convert "calculation of velocity" to "velocity calculation").
 - [ ] Reduce vague words like important or methodologic.
 - [ ] Reduce acronyms/jargon.
 - [ ] Expand all acronyms on first use (rely on the acros.tex file and glossaries package to automate this).
 - [ ] Turn negatives to positives (she was not often right -> she was usually wrong).
 - [ ] Do not bury the verb (keep the predicate close to the subject at the beginning of the sentence).
 - [ ] Refer to software consistently by name.
-- [ ] Italicize unusual or likely unfamiliar words or phrases when you use them.
+- [ ] Italicize unusual or unfamiliar words or phrases when you use them.
 - [ ] If you use an uncommon word, consider changing it or defining it in its first usage.
 ```
 
