@@ -35,7 +35,7 @@ As Shakespeare wrote in *Hamlet*, "Brevity is the soul of wit."
 - [ ] Ensure all subjects must match the plurality of their verbs (saying "Apples is tasty" is wrong, but "Apples are tasty" is correct).
 - [ ] Recover verbs that were turned into nouns ("obtain estimates of" -> "estimates"; "provides a description of" -> "describes").
 - [ ] Use the form <noun> <verb>ion over <verb>ion of <noun> (for example, convert "calculation of velocity" to "velocity calculation").
-- [ ] Reduce vague words like important or methodologic.
+- [ ] Reduce vague words like "important" or "methodologic."
 - [ ] Reduce acronyms/jargon.
 - [ ] Expand all acronyms on first use (rely on the acros.tex file and glossaries package to automate this).
 - [ ] Turn negatives to positives (she was not often right -> she was usually wrong).
@@ -125,7 +125,7 @@ You are a human writing for other humans: Make the wording exciting, and remembe
 
 Here's an example of an equation:
 ```latex
-The definition of a line is
+A line has the form
 \begin{align}
 y&=mx + b
 \intertext{where}
