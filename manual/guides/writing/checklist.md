@@ -55,7 +55,7 @@ You are a human writing for other humans: Make the wording exciting, and remembe
 - [ ] Do not use contractions in technical writing.
 - [ ] Use punctuation to help you to vary your sentence structure.
 - [ ] Follow the convention that the power to separate is (in order of increasing power): comma, colon, em dash, parentheses, semicolon, and period.
-- [ ] In increasing order of formality: dash, parentheses, all others. Don't overdo the em dash and parentheses.
+- [ ] In increasing order of formality: dash, parentheses, all others. Do not overdo the em dash and parentheses.
 - [ ] Check that if there's a list in a sentence, it shouldn't come before the colon.
 - [ ] Always use isotopic notation like `$^{239}Pu$`. Never `$Pu-239$` or `$plutonium-239$`.
 - [ ] Strengthen your verbs (use sparingly: is, are, was, were, be, been, am).
