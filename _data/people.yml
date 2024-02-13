@@ -169,6 +169,18 @@
       icon: github-alt
       name: Github
 
+- name: Elijah Capps
+  pic: /img/people/cappse.png
+  dates: 2024-Present
+  role: Undergraduate Research Assistant
+  description: 'Eli is an undergraduate in NPRE interested in modeling nuclear energy systems.'
+  social:
+    - url: mailto:ecapps2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/AbsoluteSlop
+      icon: github-alt
+      name: Github
 
 - name: You
   pic: /img/people/you.png
