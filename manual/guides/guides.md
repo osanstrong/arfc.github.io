@@ -30,7 +30,7 @@ you can really fly.
 - Download the [book](http://proquest.safaribooksonline.com/9781491901564). Browse it now and use it as a reference when you are lost.
 - Install a text editor of your choosing. (e.g. [vim](http://www.vim.org/), [emacs](https://www.gnu.org/software/emacs/), [atom](https://atom.io/), or [xo](https://github.com/scopatz/xo)).
 - Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
-- [Configure](http://swcarpentry.github.io/git-novice/02-setup/) git.
+- [Configure](https://swcarpentry.github.io/git-novice/02-setup.html) git.
 - Install the [Zotero desktop application](https://www.zotero.org/download/).
 - [Learn how to use Zotero](/manual/guides/zotero).
 - [Learn how to access articles through the university library](http://www.library.illinois.edu/library-technology/proxy-bookmarklet/).
