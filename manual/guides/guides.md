@@ -27,7 +27,7 @@ you can really fly.
 - Join the [ARFC Zotero group](https://www.zotero.org/groups/498713/arfc).
 - [Request licenses](https://rsicc.ornl.gov) for export controlled software. (Ask Katy if any are needed for your project.)
 - Read the [Code of Conduct](/manual/coc).
-- Download the [book](http://proquest.safaribooksonline.com/9781491901564). Browse it now and use it as a reference when you are lost.
+- Download the [book](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99954930827405899). Browse it now and use it as a reference when you are lost.
 - Install a text editor of your choosing. (e.g. [vim](http://www.vim.org/), [emacs](https://www.gnu.org/software/emacs/), [atom](https://atom.io/), or [xo](https://github.com/scopatz/xo)).
 - Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 - [Configure](https://swcarpentry.github.io/git-novice/02-setup.html) git.
