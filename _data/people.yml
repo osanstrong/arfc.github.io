@@ -2,10 +2,10 @@
   pic: /img/people/huffk.jpg
   dates: 2016-present
   status: PI
-  role: Assistant Professor
+  role: Associate Professor
   src: http://kdhuff.web.engr.illinois.edu
   url: http://kdhuff.web.engr.illinois.edu
-  description: 'Katy is the director of the Advanced Reactors and Fuel Cycles group at Illinois and is currently on a leave of absence to serve in the Department of Energy.'
+  description: 'Katy is the director of the Advanced Reactors and Fuel Cycles group at Illinois. She previously served as the Assistant Secretary for Nuclear Energy in the United States Department of Energy.'
   social:
     - url: http://katyhuff.youcanbook.me
       icon: calendar
@@ -204,9 +204,9 @@
   url: /positions
   description: 'Ideal ARFC group members seek to advance nuclear energy challenges through advanced computing, physics-informed modeling, and sophisticated simulation'
   social:
-    - url: mailto:mmunk2@illinois.edu
+    - url: mailto:kdhuff@illinois.edu
       icon: envelope-o
       name: Email
-    - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
+    - url: https://maps.app.goo.gl/zoRgtdKpk2LH42mM9
       icon: map-marker
       name: 118 Talbot Lab
