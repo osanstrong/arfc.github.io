@@ -182,6 +182,19 @@
       icon: github-alt
       name: Github
 
+- name: Rhys MacMillan
+  pic: /img/people/macmillanr.png
+  dates: 2024-Present
+  role: Undergraduate Research Assistant
+  description: 'Rhys is an undergraduate in NPRE. He is interested in understanding the global fuel cycle.'
+  social:
+    - url: mailto:rhysrm2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/RhysMacMillan
+      icon: github-alt
+      name: Github
+
 - name: Owen Strong
   pic: /img/people/strongo.jpg
   dates: 2024-Present
@@ -194,8 +207,7 @@
     - url: https://github.com/osanstrong
       icon: github-alt
       name: Github
-
-
+      
 - name: You
   pic: /img/people/you.png
   dates: now
