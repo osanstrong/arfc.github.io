@@ -37,7 +37,7 @@
   description: 'Graduate research assistants in ARFC are PhD or masters students enrolled at UofI, typically in the NPRE department. These students can be supported to conduct research that advances a dissertation or thesis project that is in synergy with the mission of the research group as a whole.'
   available:
     - title: "Graduate Research Assistant - General"
-      description: 'Even if funding is not available, applications from exceptional graduate applicants are welcome. ARFC would be happy to guide you in fellowship applications to support your research. Both prospective and current NPRE students are welcome to contact Prof. Huff to lear more about graduate research opportunities in the group.'
+      description: 'Even if funding is not available, applications from exceptional graduate applicants are welcome. ARFC would be happy to guide you in fellowship applications to support your research. Both prospective and current NPRE students are welcome to contact Prof. Huff to learn more about graduate research opportunities in the group.'
       required: "python, git, acceptance to the NPRE PhD program"
       desired: "python, git"
       pic: /img/positions/you.png
