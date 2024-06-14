@@ -62,7 +62,7 @@
   description: 'ROLLO uses evolutionary algorithms to optimize reactor design parameters and can be coupled with neutronics codes such as OpenMC.'
 
 - name: openmcyclus
-  pic: research/openmcyclus_impromptu.png
+  pic: research/openmcyclus_generic.png
   network: github
   dates: 2023-present
   role: Amanda Bachmann, original creator and continued contributor.
