@@ -43,7 +43,7 @@ As Shakespeare wrote in *Hamlet*, "Brevity is the soul of wit."
 - [ ] Refer to software consistently by name.
 - [ ] Italicize unusual or unfamiliar words or phrases when you use them.
 - [ ] If you use an uncommon word, consider changing it or defining it in its first usage.
-- [ ] Only use the word "significant" when referring to statistical significance
+- [ ] Only use the word "significant" when referring to statistical significance.
 ```
 
 
